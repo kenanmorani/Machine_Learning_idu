@@ -1,0 +1,1100 @@
+Patient identifier,Is the patient alive or not,Date of death,Sex,Date of birth,PCI is happened or not,Reanimation before the hospitalization,Cardiogen shock at hospitalization,Myocardialis.infarctus in medical history,Health failure in medical history,Hypertonia in medical history or during the treatment,Stroke in medical history,Diabetes in medical history,Peripherial vascular disease in medical history,Hyperlipidaemia in medical history,Smoker in medical history,Creatinin level,Diagnosis,Treatment identifier,Date of hospitalization
+9695,Yes,No data,Female,21-06-60 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,10048,28-01-14 15:48
+9699,Yes,No data,Female,09-08-64 0:00,No,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,10052,03-01-14 14:30
+9700,No,18-02-14 0:00,Male,27-10-23 0:00,No,No data,No data,No,No data,Yes,Yes,Yes,Yes,No data,No data,No data,NSTEMI,10053,16-02-14 13:00
+9701,No,15-01-15 0:00,Male,09-05-28 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,10054,09-01-14 10:18
+9795,Yes,No data,Male,14-12-53 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,10153,07-01-14 17:26
+9797,No,29-12-15 0:00,Male,14-08-58 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,10155,15-01-14 16:48
+9799,No,25-05-14 0:00,Male,06-01-43 0:00,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Smoker,No data,STEMI,10157,12-02-14 15:34
+9800,Yes,No data,Female,25-07-47 0:00,No,No data,No data,No,No data,No data,No data,No data,No data,No data,Smoker,No data,NSTEMI,10158,21-01-14 13:05
+9801,Yes,No data,Female,26-04-65 0:00,No,No,No data,No,No,No,No,No,No,No,No data,No data,STEMI,19578,04-01-14 19:13
+9801,Yes,No data,Female,26-04-65 0:00,No,No,No data,No,No,No,No,No,No,No,No data,No data,STEMI,19578,04-01-14 19:13
+9472,Yes,No data,Male,25-06-55 0:00,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Never smoked,No data,NSTEMI,10161,03-02-14 8:00
+102,Yes,No data,Male,28-05-41 0:00,Yes,No data,No data,Yes,No data,No data,No data,Yes,No data,No data,No data,No data,NSTEMI,102,07-01-14 14:37
+9891,Yes,No data,Female,30-07-34 0:00,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Never smoked,No data,NSTEMI,56744,24-12-15 11:07
+9891,Yes,No data,Female,30-07-34 0:00,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Never smoked,152,NSTEMI,56744,24-12-15 11:07
+9895,No,04-02-14 0:00,Female,22-03-39 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,10259,10-01-14 0:47
+9897,Yes,No data,Female,10-02-35 0:00,No,No data,No data,No,No data,No,Yes,No,Yes,No data,Never smoked,No data,STEMI,10261,03-02-14 13:07
+9898,Yes,No data,Male,04-09-45 0:00,Yes,No,No,No,No,Yes,No,Yes,No,No,Smoker,No data,STEMI,10263,10-02-14 21:09
+9900,No,10-07-14 0:00,Female,28-09-26 0:00,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No data,No data,NSTEMI,32708,12-01-14 12:08
+9900,No,10-07-14 0:00,Female,28-09-26 0:00,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No data,No data,NSTEMI,32708,12-01-14 12:08
+9902,Yes,No data,Male,04-04-52 0:00,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No data,No data,NSTEMI,10267,13-01-14 9:26
+9993,No,06-03-15 0:00,Male,20-03-41 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,10367,05-01-14 1:11
+9995,No,09-01-14 0:00,Male,24-11-29 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,10369,05-01-14 11:13
+9998,Yes,No data,Male,25-07-51 0:00,No,No data,No data,Yes,No,Yes,No data,No data,Yes,Yes,Smoker,No data,NSTEMI,10372,24-01-14 22:22
+9999,Yes,No data,Male,28-01-82 0:00,No,No,No,No,No,Yes,No,No,No,No,Smoker,No data,NSTEMI,10373,13-01-14 11:30
+10099,Yes,No data,Female,15-08-60 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,No,No data,Smoker,No data,STEMI,10477,07-01-14 13:37
+10100,Yes,No data,Male,09-07-43 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,10478,20-01-14 11:36
+10101,Yes,No data,Female,15-07-58 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,10479,14-01-14 14:52
+10106,Yes,No data,Female,19-12-47 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,10485,12-02-14 10:59
+10200,No,13-07-15 0:00,Male,12-09-34 0:00,No,No data,No data,No,No data,Yes,Yes,Yes,No,No data,Never smoked,No data,NSTEMI,10585,21-01-14 10:10
+10201,Yes,No data,Female,19-12-67 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,10586,21-01-14 4:15
+10202,No,02-02-15 0:00,Male,20-11-44 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,10587,23-01-14 10:51
+106,No,30-04-14 0:00,Male,29-03-56 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,106,24-02-14 8:45
+10304,Yes,No data,Male,16-01-48 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,No,No data,No data,No data,STEMI,10692,21-01-14 11:05
+10305,No,30-12-14 0:00,Female,08-03-30 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,10693,26-01-14 4:02
+10307,Yes,No data,Male,26-07-65 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,NSTEMI,10696,10-02-14 15:07
+10308,Yes,No data,Male,06-10-43 0:00,Yes,No data,No data,No,No data,No,No,Yes,No,No data,Never smoked,No data,STEMI,10697,05-02-14 9:08
+107,No,11-03-14 0:00,Male,13-03-32 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,107,20-02-14 17:22
+107,No,11-03-14 0:00,Male,13-03-32 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,107,20-02-14 17:22
+10397,Yes,No data,Male,28-10-56 0:00,Yes,No,No,Yes,No,No data,No data,No data,No data,No,Smoker,68,STEMI,58987,13-04-15 8:59
+10404,No,30-04-15 0:00,Female,15-12-41 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,10797,14-01-14 10:02
+10404,No,30-04-15 0:00,Female,15-12-41 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,10797,14-01-14 10:02
+10406,Yes,No data,Female,23-01-58 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,10799,22-01-14 5:41
+8396,Yes,No data,Male,16-07-86 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,8652,30-01-14 12:26
+8396,Yes,No data,Male,16-07-86 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,8652,30-01-14 12:26
+10410,Yes,No data,Female,25-06-70 0:00,No,No data,No data,Yes,No data,No,No,Yes,No,No data,Smoker,No data,NSTEMI,10804,16-01-14 13:00
+10489,Yes,No data,Male,13-07-39 0:00,No,No,No,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,40772,28-10-14 21:00
+10499,Yes,No data,Female,14-09-52 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,10897,14-01-14 13:40
+10499,Yes,No data,Female,14-09-52 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,10897,14-01-14 13:40
+10501,No,08-02-14 0:00,Female,27-11-31 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,10899,21-01-14 23:39
+109,Yes,No data,Male,13-05-49 0:00,Yes,No data,No,No,No data,Yes,No,No,Yes,No data,Never smoked,No data,STEMI,109,17-02-14 13:08
+10503,No,03-01-15 0:00,Male,30-11-28 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,10901,07-01-14 23:58
+10507,Yes,No data,Male,15-08-61 0:00,Yes,No data,No data,Yes,No,Yes,No,Yes,No,No,Never smoked,No data,STEMI,10905,15-01-14 12:08
+1079,Yes,No data,Male,10-01-39 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1093,20-01-14 12:10
+1082,Yes,No data,Male,29-10-37 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,1096,19-02-14 12:37
+1083,Yes,No data,Female,03-10-29 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,1097,06-03-14 1:17
+1084,Yes,No data,Male,07-10-61 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,1098,22-02-14 10:06
+1086,Yes,No data,Female,19-03-54 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1100,25-03-14 20:30
+10601,No,04-02-14 0:00,Female,29-07-30 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,11004,02-02-14 11:45
+10602,No,20-01-14 0:00,Female,24-08-22 0:00,No,No,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,11005,20-01-14 11:29
+10604,Yes,No data,Female,17-09-30 0:00,No,No data,No data,Yes,No,Yes,No,No,No,Yes,No data,No data,NSTEMI,11007,10-03-14 15:23
+10606,Yes,No data,Female,14-09-57 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,11009,30-01-14 13:47
+10703,No,04-02-14 0:00,Male,15-09-43 0:00,No,No data,No data,Yes,No data,Yes,Yes,No data,No data,No data,No data,No data,NSTEMI,11113,25-01-14 5:10
+10707,Yes,No data,Male,06-07-60 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,STEMI,11117,08-02-14 12:15
+10708,No,28-12-14 0:00,Male,31-10-39 0:00,No,No data,No,No,No data,No,No,No,No,No data,No data,No data,STEMI,11118,07-02-14 17:40
+10804,Yes,No data,Male,15-01-59 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,11220,13-01-14 13:29
+10807,No,12-02-15 0:00,Male,11-11-31 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,11223,07-02-14 11:28
+10904,Yes,No data,Female,08-06-32 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,11329,15-01-14 14:17
+10904,Yes,No data,Female,08-06-32 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,11329,15-01-14 14:17
+10910,No,03-03-14 0:00,Male,17-07-50 0:00,Yes,No,No data,No,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,31660,06-02-14 5:40
+10910,No,03-03-14 0:00,Male,17-07-50 0:00,Yes,No,No data,No,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,31660,06-02-14 5:40
+10910,No,03-03-14 0:00,Male,17-07-50 0:00,Yes,No,No,No,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,31660,06-02-14 5:40
+2832,Yes,No data,Male,20-09-36 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No data,No data,Never smoked,No data,NSTEMI,11336,29-01-14 13:37
+2832,Yes,No data,Male,20-09-36 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No data,No data,Never smoked,No data,NSTEMI,11336,29-01-14 13:37
+10911,No,26-09-14 0:00,Female,31-03-39 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,11337,25-03-14 1:20
+11012,Yes,No data,Male,04-10-55 0:00,Yes,No data,No data,No,No data,No,No,Yes,No data,No data,Smoker,No data,NSTEMI,11443,25-01-14 11:51
+11016,Yes,No data,Male,14-11-37 0:00,No,No data,No data,No,No data,Yes,No,No,No data,No data,Never smoked,No data,NSTEMI,11447,27-02-14 21:18
+11017,No,19-06-16 0:00,Male,15-10-39 0:00,No,No data,No data,No,No data,Yes,No,Yes,No data,No data,No data,No data,STEMI,11448,20-01-14 15:41
+11018,Yes,No data,Female,31-01-46 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,11449,29-01-14 19:32
+11036,Yes,No data,Male,30-03-51 0:00,No,No,No,Yes,No data,Yes,Yes,Yes,No,No data,Smoker,No data,NSTEMI,33084,24-03-14 3:50
+11117,Yes,No data,Male,17-01-44 0:00,Yes,No data,No data,No,No data,Yes,No,No data,No data,No data,No data,No data,NSTEMI,11553,29-01-14 14:00
+11118,Yes,No data,Female,27-03-54 0:00,Yes,No,No,No data,No data,No data,No data,Yes,No data,No data,Smoker,No data,STEMI,32431,12-02-14 9:18
+11118,Yes,No data,Female,27-03-54 0:00,Yes,No,No data,No data,No data,No data,No data,Yes,No data,No data,Smoker,No data,STEMI,32431,12-02-14 9:18
+11168,Yes,No data,Male,16-05-47 0:00,No,No,No,Yes,Yes,Yes,No,No,No,No,Smoker,117,NSTEMI,54297,10-09-15 19:06
+11216,Yes,No data,Female,27-07-53 0:00,Yes,No data,No data,No,No data,No,No,No,Yes,No data,Smoker,No data,STEMI,11660,24-01-14 14:21
+11219,Yes,No data,Male,25-12-54 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,11663,20-02-14 9:47
+11220,Yes,No data,Male,26-07-41 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,STEMI,11664,10-01-14 12:56
+11221,No,07-03-14 0:00,Female,28-01-44 0:00,Yes,No data,No data,No,No data,No,Yes,No,No,No data,No data,No data,STEMI,11665,07-03-14 15:43
+11321,Yes,No data,Male,12-03-58 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,11771,17-01-14 14:32
+11322,Yes,No data,Male,29-03-45 0:00,No,No data,No data,Yes,No,Yes,No,No,No,Yes,Smoker,No data,NSTEMI,11772,26-01-14 13:45
+11323,Yes,No data,Female,12-03-61 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No data,No data,Smoker,No data,STEMI,11773,24-01-14 7:41
+11327,No,24-03-14 0:00,Female,22-01-40 0:00,No,No data,No data,No data,No data,No data,No data,Yes,Yes,No data,No data,No data,NSTEMI,11779,22-02-14 22:48
+11418,No,29-01-14 0:00,Female,15-04-41 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,11881,28-01-14 13:45
+11419,Yes,No data,Female,06-01-54 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,NSTEMI,11882,22-01-14 11:10
+11424,Yes,No data,Female,01-03-50 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,11887,14-02-14 16:33
+1182,Yes,No data,Male,05-04-62 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,1196,19-01-14 15:20
+1183,Yes,No data,Male,04-03-42 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,1197,21-01-14 20:24
+11512,Yes,No data,Female,05-05-38 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,11984,26-01-14 6:02
+11513,Yes,No data,Male,17-01-59 0:00,Yes,No data,No,No,No data,Yes,No,No,No data,No data,Smoker,No data,STEMI,11985,20-01-14 19:50
+1185,Yes,No data,Female,06-04-49 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Never smoked,No data,NSTEMI,1199,18-02-14 19:40
+1186,Yes,No data,Male,01-10-61 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,1200,11-02-14 20:08
+1187,No,16-05-14 0:00,Female,14-09-34 0:00,No,No,No,Yes,No,Yes,No,No,Yes,No,Never smoked,103,NSTEMI,1201,01-03-14 13:55
+1188,No,09-10-14 0:00,Male,06-02-42 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,1202,16-02-14 8:00
+1189,Yes,No data,Female,28-08-28 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1203,26-03-14 10:35
+11612,No,20-01-14 0:00,Female,18-08-19 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,12091,20-01-14 13:35
+11614,Yes,No data,Male,20-09-50 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,12093,20-01-14 5:54
+11615,No,10-05-15 0:00,Male,23-02-56 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,STEMI,12094,26-02-14 15:00
+11616,No,16-02-16 0:00,Male,03-09-33 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,12095,10-03-14 21:21
+11709,Yes,No data,Male,07-10-50 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,Yes,No data,No data,No data,NSTEMI,12200,08-02-14 12:00
+11711,Yes,No data,Male,30-05-56 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,Smoker,No data,NSTEMI,12202,21-02-14 15:00
+11712,Yes,No data,Male,09-09-43 0:00,No,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,12203,08-02-14 18:36
+11713,No,01-03-14 0:00,Female,06-03-38 0:00,No,No data,No data,No data,No data,Yes,No data,No,Yes,No data,No data,No data,STEMI,12204,21-02-14 12:29
+1209,Yes,No data,Female,12-04-51 0:00,Yes,No,No,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,44115,31-10-14 10:59
+11806,No,04-01-14 0:00,Female,10-12-32 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,Never smoked,No data,STEMI,12304,04-01-14 0:30
+11809,Yes,No data,Male,13-12-51 0:00,Yes,No data,No data,No,No data,No,No,Yes,No,No data,Smoker,No data,STEMI,12307,25-01-14 15:25
+11810,No,18-10-14 0:00,Male,17-07-42 0:00,No,No data,No data,No,No data,Yes,No,No,No data,No data,Never smoked,No data,STEMI,12308,19-01-14 18:10
+11812,No,09-02-14 0:00,Female,13-09-59 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,12311,08-02-14 12:05
+11813,Yes,No data,Male,23-01-55 0:00,No,No data,No data,No data,No data,No data,No data,Yes,No data,No data,No data,No data,STEMI,12312,09-03-14 12:30
+11814,Yes,No data,Male,02-07-55 0:00,No,No,No,No,No,Yes,No,No,No,Yes,Never smoked,No data,NSTEMI,12313,18-03-14 8:52
+11903,Yes,No data,Male,04-06-69 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,12412,02-01-14 3:50
+11905,Yes,No data,Male,26-07-67 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,12416,18-01-14 6:07
+1230,No,06-07-14 0:00,Female,23-04-28 0:00,No,No,No,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,33081,28-03-14 0:00
+11928,Yes,No data,Male,05-05-73 0:00,Yes,No data,No,Yes,No,Yes,No,No,No,Yes,Smoker,No data,NSTEMI,47021,01-04-15 16:07
+12004,Yes,No data,Female,15-01-45 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,12519,01-01-14 15:30
+12008,Yes,No data,Male,04-04-68 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,12523,17-01-14 11:42
+12012,Yes,No data,Female,18-10-33 0:00,No,No data,No data,No,No,Yes,Yes,Yes,Yes,No,Never smoked,No data,NSTEMI,23375,03-01-14 9:35
+12104,Yes,No data,Female,28-03-48 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,12627,01-01-14 9:00
+12107,No,15-02-14 0:00,Male,16-08-31 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Never smoked,No data,NSTEMI,12630,16-01-14 8:00
+12108,Yes,No data,Female,21-12-59 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,NSTEMI,12631,08-02-14 11:00
+12111,Yes,No data,Male,18-05-71 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,NSTEMI,12634,06-03-14 16:25
+12112,Yes,No data,Male,06-04-57 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,12635,27-02-14 21:20
+12211,Yes,No data,Male,10-08-70 0:00,Yes,No data,No data,No,No data,Yes,No,No,No data,No data,Smoker,No data,NSTEMI,12743,17-01-14 10:03
+12216,Yes,No data,Female,18-11-50 0:00,No,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,12748,01-03-14 12:31
+12315,Yes,No data,Male,08-06-69 0:00,Yes,No data,No data,No,No data,No,No,No,No data,No data,Smoker,No data,NSTEMI,12852,16-01-14 16:43
+12319,Yes,No data,Male,29-02-44 0:00,Yes,No data,No data,Yes,No data,No data,No,No data,No data,No data,Smoker,No data,STEMI,12857,10-03-14 19:06
+12320,Yes,No data,Female,28-02-74 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,12858,11-03-14 17:11
+12415,Yes,No data,Female,14-09-58 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,12962,16-01-14 14:37
+12417,No,03-03-14 0:00,Male,27-03-34 0:00,No,No data,No data,No,No data,Yes,No,No data,No,No data,Never smoked,No data,STEMI,12964,27-01-14 12:45
+12418,Yes,No data,Male,28-09-43 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,12965,11-01-14 19:48
+12419,Yes,No data,Male,21-04-67 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,Smoker,No data,NSTEMI,12966,28-02-14 17:17
+12437,Yes,No data,Male,24-06-60 0:00,No,No,No data,Yes,Yes,Yes,No,Yes,No,Yes,No data,No data,NSTEMI,57083,04-11-15 19:08
+1289,Yes,No data,Female,10-06-40 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,1303,07-01-14 13:02
+1290,Yes,No data,Male,26-03-64 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,NSTEMI,1304,19-01-14 14:25
+1291,No,24-01-14 0:00,Female,14-05-32 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1305,22-01-14 12:40
+1292,Yes,No data,Male,09-07-56 0:00,Yes,No data,No data,No data,No data,No data,No data,Yes,No data,No data,No data,No data,STEMI,1306,21-01-14 16:15
+1293,No,19-08-14 19:30,Female,08-12-48 0:00,Yes,No data,No data,Yes,No,Yes,No,No,No data,Yes,A doh nyz st abbahagyta,No data,STEMI,1307,03-01-14 18:23
+12516,Yes,No data,Male,16-08-63 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,NSTEMI,13072,13-01-14 10:28
+12522,Yes,No data,Female,10-09-35 0:00,No,No data,No data,No,No data,Yes,Yes,Yes,No,No data,Never smoked,No data,NSTEMI,13078,25-02-14 3:38
+1294,No,02-01-15 0:00,Female,13-03-41 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,1308,07-02-14 9:41
+1295,Yes,No data,Female,11-10-52 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1309,03-03-14 9:45
+1297,Yes,No data,Female,01-02-45 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1311,27-03-14 12:47
+12615,Yes,No data,Male,09-08-53 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,13175,04-02-14 14:57
+12617,No,23-02-16 0:00,Male,24-06-44 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,Yes,Yes,No data,No data,NSTEMI,13177,31-01-14 15:07
+12618,Yes,No data,Male,23-03-81 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,13178,19-01-14 0:40
+12619,Yes,No data,Male,17-04-50 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,13179,10-03-14 12:40
+12620,Yes,No data,Male,30-05-52 0:00,No,No,No,No,No,No data,No,No,No data,No data,Never smoked,No data,NSTEMI,13180,06-03-14 3:12
+12715,Yes,No data,Male,23-02-61 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,13283,15-01-14 8:40
+12717,No,15-02-14 0:00,Female,04-07-40 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,13285,05-02-14 22:10
+12820,Yes,No data,Female,08-08-57 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,13395,12-01-14 19:08
+12821,No,16-03-14 0:00,Male,16-06-51 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,Smoker,No data,STEMI,13396,21-01-14 12:32
+12824,No,30-08-16 0:00,Male,24-02-36 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,13399,10-03-14 8:36
+12919,Yes,No data,Female,02-11-42 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,13501,03-01-14 17:07
+12920,Yes,No data,Male,21-07-32 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,13502,07-01-14 9:20
+12922,Yes,No data,Male,08-04-45 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,13504,05-02-14 23:45
+12923,Yes,No data,Male,11-09-49 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,STEMI,13505,22-01-14 17:28
+12924,Yes,No data,Female,03-08-50 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,31139,25-01-14 11:36
+12924,Yes,No data,Female,03-08-50 0:00,Yes,No data,No,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,31139,25-01-14 11:36
+12925,Yes,No data,Female,30-04-68 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,13508,09-03-14 17:03
+12926,No,07-01-14 0:00,Female,22-06-36 0:00,No,No data,No data,No,No data,Yes,Yes,Yes,No data,No data,No data,No data,STEMI,13509,04-01-14 15:56
+13019,Yes,No data,Male,01-07-45 0:00,Yes,No data,No data,No,No data,No,No,No,Yes,No data,Smoker,No data,STEMI,13612,06-01-14 12:35
+13020,No,16-06-15 0:00,Male,27-08-27 0:00,No,No data,No data,No,No data,Yes,No,Yes,No data,No data,Smoker,No data,NSTEMI,13613,05-01-14 12:07
+332,Yes,No data,Male,18-01-63 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,13615,05-02-14 16:40
+332,Yes,No data,Male,18-01-63 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,13615,05-02-14 16:40
+13021,Yes,No data,Female,23-03-37 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,13616,22-01-14 9:45
+13022,Yes,No data,Female,24-07-35 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,13617,04-02-14 17:00
+13023,Yes,No data,Male,06-04-58 0:00,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Smoker,No data,NSTEMI,13618,26-02-14 4:26
+13025,No,20-08-16 0:00,Male,06-03-41 0:00,No,No data,No data,Yes,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,13620,10-02-14 6:33
+13076,No,15-07-14 0:00,Female,29-06-64 0:00,No,No,No,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,40517,24-05-14 11:16
+13076,No,15-07-14 0:00,Female,29-06-64 0:00,No,No,No,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,40517,24-05-14 11:16
+13113,Yes,No data,Male,29-04-52 0:00,No,No data,No,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,31125,04-01-14 11:09
+13113,Yes,No data,Male,29-04-52 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,31125,04-01-14 11:09
+13115,Yes,No data,Female,21-08-38 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,13721,04-02-14 1:10
+13116,No,12-02-14 0:00,Male,27-11-49 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,13722,03-02-14 22:15
+13117,Yes,No data,Male,05-08-43 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,13723,12-01-14 14:30
+13118,Yes,No data,Female,15-05-35 0:00,No,No,No,No,No,Yes,No,No data,No data,No data,Never smoked,No data,STEMI,13724,04-03-14 14:37
+13119,Yes,No data,Female,27-01-49 0:00,No,No data,No data,No data,No data,Yes,Yes,Yes,No data,No data,No data,No data,NSTEMI,13725,13-02-14 13:03
+13198,Yes,No data,Female,17-12-67 0:00,Yes,No,No,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,31464,28-04-14 16:45
+13198,Yes,No data,Female,17-12-67 0:00,Yes,No,No,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,31464,28-04-14 16:45
+13216,Yes,No data,Male,28-01-66 0:00,No,No data,No data,No,No,Yes,No,No,No,No,Smoker,No data,STEMI,13831,08-01-14 20:20
+13218,Yes,No data,Male,25-06-74 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,13833,11-01-14 9:30
+13219,Yes,No data,Female,28-08-40 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,STEMI,13834,24-01-14 14:08
+13220,No,19-04-16 0:00,Female,19-09-27 0:00,No,No data,No data,No,No data,Yes,No,No,Yes,No data,No data,No data,NSTEMI,13835,19-02-14 11:20
+13221,No,23-02-14 0:00,Male,04-05-24 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,13836,23-02-14 13:26
+13222,Yes,No data,Male,10-07-49 0:00,No,No data,No data,Yes,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,13837,13-01-14 11:00
+13318,No,02-01-17 0:00,Male,03-09-53 0:00,Yes,No data,No data,Yes,Yes,Yes,No,No,No,No,Never smoked,No data,NSTEMI,13942,05-01-14 11:10
+13319,Yes,No data,Male,16-04-67 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,13943,06-01-14 12:45
+7274,Yes,No data,Male,23-02-74 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,13945,05-02-14 12:45
+7274,Yes,No data,Male,23-02-74 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,13945,05-02-14 12:45
+13321,Yes,No data,Female,30-06-58 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,13946,11-02-14 16:58
+13322,No,09-03-15 0:00,Female,16-07-49 0:00,No,No data,No data,No,No data,Yes,Yes,Yes,Yes,No data,No data,No data,STEMI,13947,19-02-14 17:57
+13323,No,11-02-14 14:00,Male,03-02-38 0:00,No,No data,No data,No,No data,Yes,Yes,No,No,No data,No data,No data,STEMI,13948,11-02-14 3:00
+13324,Yes,No data,Male,16-02-35 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,13949,14-01-14 1:07
+13325,Yes,No data,Male,06-08-46 0:00,Yes,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,13950,12-02-14 7:59
+13326,No,18-07-14 0:00,Male,19-08-44 0:00,No,No data,No data,No,No data,Yes,Yes,Yes,No,No data,No data,No data,NSTEMI,13951,15-03-14 17:17
+13423,Yes,No data,Female,02-06-30 0:00,No,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,14057,04-01-14 12:10
+13424,Yes,No data,Female,22-07-49 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,14059,09-02-14 7:50
+13425,Yes,No data,Male,14-04-51 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,14060,23-01-14 18:00
+13427,Yes,No data,Male,01-12-52 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,14062,05-02-14 15:10
+13428,No,12-02-14 0:00,Female,10-03-50 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,14063,03-02-14 22:46
+13429,No,17-09-16 0:00,Male,16-08-31 0:00,No,No data,No data,Yes,Yes,Yes,No,Yes,No,No,No data,No data,NSTEMI,23597,08-01-14 10:15
+13429,No,17-09-16 0:00,Male,16-08-31 0:00,No,No data,No data,Yes,Yes,Yes,No,Yes,No,No,No data,No data,NSTEMI,23597,08-01-14 10:15
+1394,No,02-10-16 0:00,Female,10-01-59 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1412,22-01-14 13:08
+1396,Yes,No data,Female,15-04-57 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,No data,No data,NSTEMI,1414,03-01-14 12:36
+1397,Yes,No data,Male,02-02-55 0:00,Yes,No data,No data,No,No,Yes,No,No,No,No data,Never smoked,No data,STEMI,1415,06-02-14 10:04
+1398,Yes,No data,Female,25-04-58 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1416,04-03-14 9:50
+13524,Yes,No data,Male,26-06-56 0:00,Yes,No data,No data,No data,No data,No,No,No,No,No data,No data,No data,STEMI,14167,04-01-14 23:35
+13525,No,24-01-14 0:00,Female,08-11-38 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,STEMI,14168,21-01-14 16:55
+13526,Yes,No data,Male,01-11-40 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,14169,01-01-14 13:42
+1399,Yes,No data,Male,07-09-34 0:00,No,No data,No,No,No data,Yes,No,No,No,No,No data,No data,NSTEMI,1417,08-02-14 9:27
+1399,Yes,No data,Male,07-09-34 0:00,No,No data,No data,No,No data,Yes,No,No,No,No,No data,No data,NSTEMI,1417,08-02-14 9:27
+13527,Yes,No data,Male,04-06-44 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,14170,23-01-14 9:59
+13529,Yes,No data,Female,16-10-51 0:00,Yes,No data,No data,No,No data,No,No,No,No,No,Never smoked,No data,STEMI,14172,13-02-14 14:19
+13530,Yes,No data,Male,07-07-43 0:00,Yes,No,No,No,No,Yes,No,Yes,No,No,Never smoked,No data,STEMI,32975,15-01-14 12:00
+13530,Yes,No data,Male,07-07-43 0:00,Yes,No,No data,No,No,Yes,No,Yes,No,No,Never smoked,No data,STEMI,32975,15-01-14 12:00
+13531,No,16-11-16 0:00,Male,07-08-33 0:00,No,No data,No data,Yes,Yes,No,Yes,No,No,No,No data,No data,NSTEMI,14174,17-03-14 13:50
+1400,Yes,No data,Male,19-09-54 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1418,28-03-14 10:08
+13623,Yes,No data,Female,16-01-39 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,14274,10-01-14 14:00
+13624,Yes,No data,Male,15-04-48 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,14275,22-01-14 17:30
+13625,No,10-08-16 0:00,Female,27-01-39 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,14276,02-01-14 11:58
+13628,Yes,No data,Female,11-09-39 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,14279,28-01-14 13:00
+13629,No,22-06-14 0:00,Female,06-08-28 0:00,No,No data,No data,No,No,Yes,No data,No data,No data,No data,Never smoked,No data,STEMI,14280,09-02-14 22:43
+13629,No,22-06-14 0:00,Female,06-08-28 0:00,No,No data,No,No,No,Yes,No data,No data,No data,No data,Never smoked,No data,STEMI,14280,09-02-14 22:43
+13715,Yes,No data,Male,08-12-66 0:00,Yes,No data,No data,Yes,No data,No,No,No,No,No data,No data,No data,NSTEMI,14376,04-01-14 12:32
+13717,Yes,No data,Male,22-03-59 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,Never smoked,No data,STEMI,14378,05-01-14 18:44
+13718,Yes,No data,Female,12-09-58 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,STEMI,14379,24-01-14 14:10
+13719,Yes,No data,Male,10-10-27 0:00,No,No data,No,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,31140,28-01-14 2:10
+13719,Yes,No data,Male,10-10-27 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,31140,28-01-14 2:10
+13720,Yes,No data,Female,31-03-50 0:00,Yes,No data,No data,No,No data,Yes,No,No data,No,No data,Smoker,No data,STEMI,14381,16-01-14 15:15
+13722,No,18-02-14 0:00,Female,10-11-39 0:00,No,No data,No data,Yes,Yes,Yes,No,No,No,Yes,Never smoked,No data,STEMI,30602,08-02-14 5:26
+13722,No,18-02-14 0:00,Female,10-11-39 0:00,No,No data,Yes,Yes,Yes,Yes,No,No,No,Yes,Never smoked,No data,STEMI,30602,08-02-14 5:26
+13811,Yes,No data,Male,10-04-65 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,NSTEMI,14482,29-01-14 11:16
+13812,No,15-01-14 0:00,Female,26-12-28 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,Yes,No data,No data,No data,STEMI,14483,13-01-14 14:02
+13814,Yes,No data,Female,03-03-29 0:00,Yes,No data,No data,No,No data,Yes,No,No data,No,No data,Never smoked,No data,NSTEMI,14485,22-01-14 17:07
+13815,Yes,No data,Male,16-09-56 0:00,No,No data,No data,No data,No data,Yes,No data,No,No data,No data,Smoker,No data,STEMI,14486,17-01-14 1:38
+13910,Yes,No data,Female,18-12-28 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,14589,07-01-14 14:01
+13911,Yes,No data,Male,01-09-34 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,14590,08-01-14 17:07
+13912,No,28-01-16 0:00,Male,25-08-63 0:00,No,No data,No data,Yes,No data,Yes,Yes,No,No,No data,Smoker,No data,STEMI,14591,16-01-14 6:10
+13913,Yes,No data,Female,15-02-54 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,14592,24-01-14 11:17
+13915,Yes,No data,Female,10-10-52 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,14594,20-01-14 11:54
+13917,Yes,No data,Female,14-02-56 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,14596,12-02-14 11:44
+14009,Yes,No data,Male,02-11-68 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,14697,08-01-14 8:47
+14010,Yes,No data,Female,17-05-66 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,14698,05-01-14 6:33
+14011,No,20-01-14 0:00,Male,23-08-39 0:00,No,No data,No data,Yes,No data,Yes,Yes,Yes,Yes,No data,No data,No data,STEMI,14699,18-01-14 17:15
+14012,No,09-05-14 0:00,Female,20-08-34 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,14700,29-01-14 20:09
+14014,No,04-04-14 0:00,Male,03-01-41 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,14702,17-01-14 14:23
+14015,No,22-01-14 0:00,Male,09-04-43 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,Yes,Yes,No data,Smoker,No data,STEMI,14703,22-01-14 17:00
+14017,Yes,No data,Female,07-12-37 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,14705,12-02-14 12:27
+14119,Yes,No data,Male,12-06-50 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,14812,22-01-14 8:11
+14120,Yes,No data,Male,28-06-75 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,14813,24-01-14 10:48
+14123,Yes,No data,Male,14-01-54 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,NSTEMI,14816,14-02-14 9:59
+14214,Yes,No data,Female,06-11-32 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,14922,04-01-14 17:27
+14214,Yes,No data,Female,06-11-32 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,14922,04-01-14 17:27
+14219,Yes,No data,Male,10-03-52 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,14928,14-02-14 10:53
+14310,No,09-02-15 0:00,Male,09-08-25 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,15027,03-01-14 13:47
+14311,Yes,No data,Male,11-11-33 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,15028,04-01-14 12:03
+14313,Yes,No data,Male,05-05-45 0:00,No,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,15030,09-02-14 11:59
+14314,Yes,No data,Male,12-02-34 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,15031,25-01-14 21:27
+14315,Yes,No data,Female,12-01-57 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,15032,24-02-14 10:56
+14410,No,07-04-15 0:00,Male,20-04-54 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,15132,03-01-14 15:19
+14411,Yes,No data,Female,14-09-41 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,15133,16-01-14 10:28
+4474,Yes,No data,Male,27-12-54 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,15137,05-02-14 15:00
+14415,No,30-03-14 0:00,Male,01-02-52 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,15138,17-02-14 16:50
+1495,No,08-10-14 0:00,Female,15-09-51 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,1514,12-01-14 2:00
+14417,Yes,No data,Male,17-03-43 0:00,No,No data,No data,No,No data,No data,Yes,No,No data,No data,Smoker,No data,NSTEMI,15140,09-01-14 7:18
+1497,No,19-02-14 0:00,Female,18-06-34 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,1516,05-02-14 11:17
+1499,Yes,No data,Male,07-06-61 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,1518,22-02-14 15:20
+1500,Yes,No data,Male,10-02-57 0:00,Yes,No,No,No,No,No,No,No,No,No data,Smoker,No data,NSTEMI,1519,14-03-14 17:46
+1501,No,22-04-14 0:00,Female,08-08-47 0:00,Yes,No data,No data,Yes,No,Yes,No,No,No,No,No data,No data,STEMI,1520,29-03-14 12:00
+1501,No,22-04-14 0:00,Female,08-08-47 0:00,Yes,No data,No data,Yes,No,Yes,No,No,No,No,No data,No data,STEMI,1520,29-03-14 12:00
+14516,Yes,No data,Male,28-07-59 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,15247,25-01-14 8:35
+14519,Yes,No data,Male,08-01-61 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,15250,14-02-14 11:24
+14591,No,23-01-15 0:00,Male,30-05-30 0:00,No,No,No,No,Yes,Yes,No,No,No,No,Never smoked,88,NSTEMI,54348,06-01-15 21:07
+14620,Yes,No data,Female,03-03-63 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,STEMI,15358,04-02-14 18:29
+14707,Yes,No data,Female,19-06-39 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,15463,03-01-14 22:15
+14709,No,08-02-14 0:00,Female,24-12-36 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,15467,07-02-14 16:46
+14710,No,12-10-14 0:00,Male,03-09-26 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,No,No data,No data,No data,STEMI,15468,23-01-14 19:50
+14711,No,08-02-14 0:00,Male,08-06-54 0:00,Yes,No,No,No data,Yes,Yes,No,No,Yes,No data,No data,No data,NSTEMI,31711,01-02-14 22:41
+14711,No,08-02-14 0:00,Male,08-06-54 0:00,Yes,No,No data,No data,Yes,Yes,No,No,Yes,No data,No data,No data,NSTEMI,31711,01-02-14 22:41
+14711,No,08-02-14 0:00,Male,08-06-54 0:00,Yes,No,No data,No data,Yes,Yes,No,No,Yes,No data,No data,No data,NSTEMI,31711,01-02-14 22:41
+14714,Yes,No data,Male,31-05-41 0:00,Yes,No data,No data,No,No,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,15472,15-01-14 1:39
+14812,Yes,No data,Female,11-08-33 0:00,No,No data,No data,No,No data,Yes,Yes,No,No,No data,No data,No data,NSTEMI,15579,28-01-14 11:36
+14813,Yes,No data,Male,07-07-38 0:00,No,No data,No data,No data,No data,Yes,No data,No data,Yes,No data,No data,No data,NSTEMI,15580,29-01-14 12:23
+14903,No,12-06-16 0:00,Female,09-07-22 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,15683,03-01-14 21:28
+14907,No,06-05-14 0:00,Female,16-10-34 0:00,Yes,No data,No data,No,No data,No,No,Yes,No,No data,No data,No data,NSTEMI,15688,03-02-14 11:30
+14908,Yes,No data,Female,06-05-56 0:00,No,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,Smoker,No data,NSTEMI,15689,03-02-14 17:26
+14909,Yes,No data,Male,03-07-56 0:00,Yes,No,No,No,No,Yes,No,Yes,No,No,Smoker,No data,STEMI,15690,26-02-14 17:45
+15001,Yes,No data,Female,12-09-54 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,NSTEMI,15797,29-01-14 0:48
+15005,No,26-05-15 0:00,Male,22-07-33 0:00,No,No data,No data,Yes,No data,Yes,Yes,No data,Yes,No data,Smoker,No data,NSTEMI,15801,03-03-14 14:50
+15097,No,06-03-14 0:00,Male,19-05-39 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,15899,28-01-14 1:20
+15101,No,03-09-15 0:00,Female,19-01-22 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No data,No data,Never smoked,No data,STEMI,32524,16-01-14 20:09
+15101,No,03-09-15 0:00,Female,19-01-22 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No data,No data,Never smoked,No data,STEMI,32524,16-01-14 20:09
+15101,No,03-09-15 0:00,Female,19-01-22 0:00,Yes,No data,No,Yes,No data,Yes,No,No,No data,No data,Never smoked,No data,STEMI,32524,16-01-14 20:09
+15103,Yes,No data,Male,09-07-57 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,15905,22-02-14 17:43
+15196,Yes,No data,Female,14-07-34 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,16004,10-01-14 8:45
+15197,Yes,No data,Male,17-02-40 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,16005,28-01-14 15:00
+15199,Yes,No data,Female,27-03-50 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,16008,25-01-14 14:02
+15200,Yes,No data,Male,25-09-49 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No data,No data,Never smoked,No data,NSTEMI,16009,27-01-14 9:12
+15202,Yes,No data,Male,13-04-50 0:00,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Never smoked,No data,NSTEMI,16012,09-03-14 17:21
+15292,No,07-12-14 0:00,Male,26-05-53 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,16109,10-01-14 7:40
+15293,Yes,No data,Male,07-06-50 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,16110,03-01-14 15:24
+15296,Yes,No data,Female,11-08-42 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,16113,16-01-14 7:43
+15297,Yes,No data,Female,20-11-43 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,Smoker,No data,STEMI,16114,05-02-14 11:09
+15297,Yes,No data,Female,20-11-43 0:00,Yes,No data,No,No data,No data,Yes,No data,Yes,No data,No data,Smoker,No data,STEMI,16114,05-02-14 11:09
+15298,No,15-11-15 0:00,Male,12-10-27 0:00,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No data,No data,No data,NSTEMI,16116,06-02-14 10:30
+1599,Yes,No data,Male,06-04-41 0:00,No,No data,No,Yes,Yes,Yes,No,Yes,Yes,No data,Never smoked,No data,NSTEMI,31180,04-02-14 6:42
+1599,Yes,No data,Male,06-04-41 0:00,No,No data,No data,Yes,Yes,Yes,No,Yes,Yes,No data,Never smoked,No data,NSTEMI,31180,04-02-14 6:42
+15389,Yes,No data,Male,17-04-43 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,16217,09-01-14 9:46
+15390,Yes,No data,Female,16-03-56 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,16218,03-01-14 22:00
+1600,Yes,No data,Male,29-01-53 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,1622,05-03-14 22:03
+15393,Yes,No data,Female,29-12-43 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,16221,21-01-14 10:03
+1601,Yes,No data,Female,17-03-48 0:00,No,No data,No data,No,No data,Yes,Yes,No,Yes,No data,Never smoked,No data,NSTEMI,1623,11-02-14 15:11
+1603,Yes,No data,Male,16-11-58 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,1625,29-03-14 20:08
+15486,No,28-08-15 0:00,Male,23-11-41 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,Yes,No,No data,Never smoked,No data,NSTEMI,16329,10-01-14 13:05
+15487,Yes,No data,Male,05-02-78 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,16330,04-01-14 16:14
+15490,No,24-02-14 0:00,Male,11-08-42 0:00,No,No data,No data,No,No data,Yes,Yes,No,No,No data,No data,No data,NSTEMI,16333,25-01-14 21:04
+15491,No,30-01-14 0:00,Female,19-12-26 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,16334,30-01-14 8:35
+15494,Yes,No data,Male,05-03-64 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,16337,22-02-14 8:48
+15100,Yes,No data,Male,16-04-56 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,16440,16-01-14 20:00
+15100,Yes,No data,Male,16-04-56 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,16440,16-01-14 20:00
+15585,Yes,No data,Female,21-03-47 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,16441,06-01-14 10:40
+15586,Yes,No data,Male,24-07-53 0:00,No,No data,No data,Yes,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,16442,30-01-14 7:59
+12185,No,26-10-14 0:00,Female,12-08-41 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,16443,10-02-14 1:27
+15680,Yes,No data,Male,08-02-54 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,16545,16-01-14 17:28
+15680,Yes,No data,Male,08-02-54 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,16545,16-01-14 17:28
+15681,Yes,No data,Female,29-11-37 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,16546,04-01-14 19:15
+15681,Yes,No data,Female,29-11-37 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,16546,04-01-14 19:15
+15682,Yes,No data,Male,17-12-44 0:00,Yes,No data,No,Yes,No,Yes,Yes,No,Yes,Yes,No data,73,NSTEMI,31788,03-02-14 4:24
+15682,Yes,No data,Male,17-12-44 0:00,Yes,No data,No data,Yes,No,Yes,Yes,No,Yes,Yes,No data,No data,NSTEMI,31788,03-02-14 4:24
+15684,No,30-01-14 0:00,Female,11-10-26 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,16549,29-01-14 15:38
+15685,Yes,No data,Female,26-11-39 0:00,No,No data,No data,Yes,No data,Yes,No,No,Yes,No data,Never smoked,No data,NSTEMI,16550,05-03-14 22:55
+15688,Yes,No data,Female,22-08-50 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Never smoked,No data,STEMI,16553,13-03-14 11:13
+15771,Yes,No data,Male,01-10-71 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,16647,06-01-14 22:00
+15772,Yes,No data,Male,30-06-33 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,16648,24-01-14 18:48
+15774,Yes,No data,Female,22-04-40 0:00,No,No data,No data,Yes,No,Yes,Yes,Yes,Yes,Yes,Never smoked,No data,NSTEMI,16650,29-01-14 12:36
+15776,Yes,No data,Male,07-09-54 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,16652,09-03-14 9:17
+15777,No,08-03-14 0:00,Male,23-04-25 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,No,No data,No data,No data,NSTEMI,16653,07-03-14 15:58
+15873,Yes,No data,Female,12-02-44 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,16758,11-01-14 7:53
+15874,No,05-03-14 0:00,Male,29-10-42 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,16759,07-01-14 19:30
+15875,Yes,No data,Female,15-07-47 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,NSTEMI,16760,31-01-14 2:35
+15879,No,18-10-14 0:00,Female,03-11-31 0:00,No,No,No,No,No,Yes,No,No,No,No,No data,No data,STEMI,16765,07-02-14 19:28
+15968,Yes,No data,Male,05-08-61 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,16869,10-01-14 16:30
+15969,No,20-03-17 14:31,Female,15-03-36 0:00,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No data,No data,NSTEMI,16870,30-01-14 8:13
+15970,Yes,No data,Female,24-02-39 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,16871,21-01-14 14:37
+15971,No,03-04-16 0:00,Male,23-04-45 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,Never smoked,No data,NSTEMI,16872,17-02-14 17:08
+15973,No,18-05-16 0:00,Female,17-08-47 0:00,No,No data,No data,No,No data,Yes,Yes,No,Yes,No data,Never smoked,No data,NSTEMI,16874,10-03-14 12:46
+15974,No,19-02-14 0:00,Male,17-09-29 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,16875,18-02-14 22:23
+15975,Yes,No data,Male,26-11-75 0:00,Yes,No data,No data,No,No,No,No,No,No,No data,Smoker,No data,STEMI,31156,25-02-14 16:40
+15975,Yes,No data,Male,26-11-75 0:00,Yes,No data,No,No,No,No,No,No,No,No data,Smoker,No data,STEMI,31156,25-02-14 16:40
+16029,Yes,No data,Male,07-07-45 0:00,No,No,No,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,44768,27-01-15 18:05
+16061,Yes,No data,Male,31-03-46 0:00,Yes,No data,No data,Yes,Yes,Yes,No,Yes,No,Yes,No data,No data,STEMI,16975,31-01-14 8:36
+16063,Yes,No data,Male,11-03-36 0:00,No,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,16977,18-02-14 21:52
+16064,Yes,No data,Male,07-03-50 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,STEMI,16978,15-02-14 5:30
+16065,Yes,No data,Female,23-04-42 0:00,Yes,No,No,No,No,Yes,No,Yes,No,No,Never smoked,No data,NSTEMI,16979,16-03-14 5:57
+16157,Yes,No data,Male,14-05-63 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,Smoker,No data,STEMI,17082,04-02-14 16:05
+16158,No,09-09-14 0:00,Female,31-08-31 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,17083,16-01-14 7:43
+16159,Yes,No data,Male,15-05-56 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,17084,31-01-14 17:59
+16160,Yes,No data,Female,28-10-35 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,17086,07-03-14 22:55
+16161,No,27-02-14 0:00,Female,08-10-49 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,17087,17-02-14 11:12
+16162,No,30-01-14 0:00,Male,15-06-33 0:00,No,No data,No data,Yes,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,17088,17-01-14 8:42
+16253,Yes,No data,Male,29-06-52 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,17190,14-01-14 11:18
+16255,No,21-01-16 0:00,Female,15-12-50 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,NSTEMI,17193,07-02-14 2:03
+16257,Yes,No data,Female,26-04-42 0:00,Yes,No data,No data,Yes,Yes,Yes,Yes,Yes,No,No,Never smoked,No data,NSTEMI,17195,07-03-14 4:42
+16258,Yes,No data,Male,25-08-41 0:00,Yes,No,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,32446,13-02-14 0:30
+16258,Yes,No data,Male,25-08-41 0:00,Yes,No,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,32446,13-02-14 0:30
+16259,No,27-03-14 0:00,Female,08-03-35 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,17197,11-03-14 8:43
+1704,Yes,No data,Female,04-04-56 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,1726,29-01-14 16:15
+1707,Yes,No data,Male,13-02-43 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,1729,04-02-14 13:48
+16347,Yes,No data,Male,18-05-53 0:00,Yes,No data,No data,No,No data,No,No,No,Yes,No data,No data,No data,NSTEMI,17295,11-01-14 23:35
+16349,Yes,No data,Female,29-10-60 0:00,Yes,No data,No data,No data,No data,Yes,No data,No,No data,No data,Smoker,No data,STEMI,17297,03-02-14 14:19
+16350,No,20-02-14 0:00,Male,02-08-30 0:00,No,No,No data,No data,Yes,Yes,No data,Yes,No data,No,No data,No data,NSTEMI,17298,28-01-14 16:50
+16350,No,20-02-14 0:00,Male,02-08-30 0:00,No,No,No data,No data,Yes,Yes,No data,Yes,No data,No,No data,No data,NSTEMI,17298,28-01-14 16:50
+16350,No,20-02-14 0:00,Male,02-08-30 0:00,No,No,No data,No data,Yes,Yes,No data,Yes,No data,No,No data,No data,NSTEMI,17298,28-01-14 16:50
+16351,No,03-11-14 0:00,Female,01-04-36 0:00,No,No,No,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,40088,03-01-14 19:01
+16351,No,03-11-14 0:00,Female,01-04-36 0:00,No,No,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,40088,03-01-14 19:01
+1708,Yes,No data,Female,02-07-28 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,1730,04-03-14 21:45
+16352,No,10-08-16 0:00,Male,23-09-29 0:00,No,No data,No data,Yes,No data,Yes,No,No,Yes,No data,No data,No data,NSTEMI,17300,09-02-14 2:51
+16353,No,25-02-14 0:00,Male,07-03-38 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,17301,20-02-14 13:57
+16353,No,25-02-14 0:00,Male,07-03-38 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,17301,20-02-14 13:57
+16354,Yes,No data,Male,29-08-30 0:00,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Never smoked,No data,STEMI,17302,17-02-14 14:20
+16354,Yes,No data,Male,29-08-30 0:00,Yes,No,No data,Yes,Yes,Yes,No,No,No,Yes,Never smoked,No data,STEMI,17302,17-02-14 14:20
+16355,No,29-02-16 0:00,Female,14-06-41 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,17303,25-02-14 9:28
+1709,No,28-07-15 0:00,Male,02-02-38 0:00,No,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,1731,22-02-14 18:52
+1710,Yes,No data,Female,20-06-63 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,1732,13-03-14 18:50
+16378,No,20-03-14 22:15,Male,08-09-51 0:00,No,No,Yes,No,No data,No,No,No,Yes,No data,Smoker,78,STEMI,32584,20-03-14 16:50
+1711,Yes,No data,Male,29-05-64 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,1733,13-03-14 10:50
+16441,Yes,No data,Male,06-01-50 0:00,Yes,No data,No data,Yes,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,17400,10-01-14 15:18
+16442,No,06-03-16 0:00,Female,06-10-47 0:00,No,No data,No data,Yes,Yes,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,17401,04-02-14 14:58
+16443,No,22-01-15 0:00,Male,12-06-27 0:00,No,No data,No data,No,No data,Yes,No,No,Yes,No data,No data,No data,STEMI,17402,18-01-14 10:12
+16444,Yes,No data,Male,19-10-39 0:00,Yes,No data,No data,Yes,No,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,17403,07-02-14 11:40
+16445,Yes,No data,Female,23-02-36 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,17404,03-03-14 10:40
+16446,No,24-12-14 0:00,Male,07-05-34 0:00,Yes,No,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,17405,21-02-14 16:10
+16446,No,24-12-14 0:00,Male,07-05-34 0:00,Yes,No,No,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,17405,21-02-14 16:10
+16447,No,11-04-16 0:00,Female,05-10-55 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,STEMI,17406,23-01-14 11:17
+16448,No,26-03-14 0:00,Female,10-11-42 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,17407,11-03-14 21:20
+16540,No,29-01-14 0:00,Male,07-07-42 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,17510,17-01-14 12:15
+16541,No,13-02-14 0:00,Male,10-11-17 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,17511,24-01-14 9:55
+16544,Yes,No data,Male,13-12-49 0:00,Yes,No data,No data,No,Yes,Yes,No,No,No,Yes,Never smoked,No data,NSTEMI,17514,15-01-14 1:27
+16545,Yes,No data,Female,26-09-42 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,17515,02-03-14 21:36
+16546,No,14-03-14 0:00,Male,05-07-40 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,17516,12-03-14 0:57
+13026,Yes,No data,Male,08-04-70 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No data,No data,No data,No data,STEMI,17517,17-02-14 16:36
+13026,Yes,No data,Male,08-04-70 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No data,No data,No data,No data,STEMI,17517,17-02-14 16:36
+16547,Yes,No data,Male,29-03-70 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,17518,04-03-14 23:45
+16637,Yes,No data,Female,12-04-38 0:00,Yes,No data,No data,No,No data,No,No,Yes,No,No data,Never smoked,No data,STEMI,17618,08-01-14 3:30
+16638,Yes,No data,Male,01-02-42 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,17619,11-01-14 14:19
+16639,No,09-04-14 0:00,Female,12-03-32 0:00,No,No,No data,No data,No,Yes,No data,No data,No data,No,No data,No data,NSTEMI,17620,18-01-14 21:10
+16639,No,09-04-14 0:00,Female,12-03-32 0:00,No,No,No,No data,No,Yes,No data,No data,No data,No,No data,No data,NSTEMI,17620,18-01-14 21:10
+4780,Yes,No data,Male,05-07-49 0:00,Yes,No data,No data,Yes,Yes,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,17623,08-02-14 8:07
+1913,Yes,No data,Male,29-10-54 0:00,Yes,No,No data,No,No,No,No,No,No,Yes,Never smoked,No data,NSTEMI,17624,01-03-14 19:55
+1913,Yes,No data,Male,29-10-54 0:00,Yes,No,No,No,No,No,No,No,No,Yes,Never smoked,No data,NSTEMI,17624,01-03-14 19:55
+16642,No,24-02-15 0:00,Female,17-02-38 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,17625,13-02-14 14:27
+16643,Yes,No data,Male,30-09-48 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,17626,17-02-14 14:30
+16644,Yes,No data,Female,31-07-41 0:00,Yes,No data,No data,Yes,Yes,Yes,No data,No,No data,No data,No data,No data,NSTEMI,17627,13-02-14 7:46
+1831,Yes,No data,Male,29-07-39 0:00,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,33051,13-03-14 9:27
+16732,Yes,No data,Female,25-01-29 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,17727,12-01-14 1:32
+16733,Yes,No data,Female,13-05-31 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,No,No data,Never smoked,No data,NSTEMI,17728,28-01-14 15:10
+16735,No,19-03-14 0:00,Male,01-01-33 0:00,No,No data,No data,Yes,No data,No,No,Yes,No,No data,Never smoked,No data,NSTEMI,17730,17-01-14 9:18
+16738,Yes,No data,Female,15-10-33 0:00,Yes,No,No data,No data,No,Yes,No data,No data,No data,No,Smoker,No data,STEMI,39443,18-02-14 14:00
+16738,Yes,No data,Female,15-10-33 0:00,Yes,No,No,No data,No,Yes,No data,No data,No data,No,Smoker,No data,STEMI,39443,18-02-14 14:00
+16738,Yes,No data,Female,15-10-33 0:00,Yes,No,No,No data,No,Yes,No data,No data,No data,No,Smoker,No data,STEMI,39443,18-02-14 14:00
+16739,Yes,No data,Male,29-08-38 0:00,Yes,No,No data,No data,No data,Yes,No data,No data,Yes,No data,No data,No data,NSTEMI,34296,20-02-14 20:30
+16739,Yes,No data,Male,29-08-38 0:00,Yes,No,No data,No data,No data,Yes,No data,No data,Yes,No data,No data,No data,NSTEMI,34296,20-02-14 20:30
+16833,Yes,No data,Male,18-04-42 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,17836,03-01-14 23:41
+16835,Yes,No data,Male,14-05-53 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,17838,11-01-14 9:34
+16836,Yes,No data,Male,24-12-59 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,17839,28-01-14 18:20
+16839,No,11-07-16 15:15,Male,28-10-48 0:00,Yes,No data,No data,Yes,Yes,Yes,No,No,No,No,No data,No data,STEMI,17842,12-02-14 10:37
+16736,Yes,No data,Female,08-06-32 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,17843,25-02-14 14:40
+12483,No,17-03-14 0:00,Female,25-06-43 0:00,No,No data,No data,Yes,No data,Yes,Yes,Yes,No,No data,Never smoked,No data,NSTEMI,17844,05-03-14 11:40
+16840,Yes,No data,Male,26-05-74 0:00,Yes,No data,No data,No,No data,No data,No,No data,No data,No data,Smoker,No data,STEMI,17845,14-03-14 16:12
+16841,Yes,No data,Female,31-05-46 0:00,Yes,No,No,No,No,Yes,No,Yes,No,No,Never smoked,No data,STEMI,17846,20-03-14 15:17
+16930,Yes,No data,Male,26-12-34 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,17945,02-01-14 20:03
+16931,No,27-01-14 0:00,Female,12-04-28 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Never smoked,No data,NSTEMI,17946,10-01-14 21:05
+16932,No,22-12-14 0:00,Male,30-05-57 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,Yes,No data,Smoker,No data,STEMI,17947,26-01-14 11:00
+16933,Yes,No data,Male,09-04-60 0:00,Yes,No,No,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,17948,07-02-14 15:50
+16933,Yes,No data,Male,09-04-60 0:00,Yes,No,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,17948,07-02-14 15:50
+16934,Yes,No data,Female,03-02-26 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,17949,16-01-14 23:25
+16935,Yes,No data,Male,20-03-56 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,17950,21-01-14 10:00
+16936,Yes,No data,Female,22-08-37 0:00,Yes,No,No,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,32441,16-02-14 22:34
+16936,Yes,No data,Female,22-08-37 0:00,Yes,No,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,32441,16-02-14 22:34
+16937,Yes,No data,Male,29-03-69 0:00,Yes,No,No,No,No,Yes,No,No,No data,No data,Smoker,No data,STEMI,17952,22-03-14 7:50
+17032,Yes,No data,Female,01-11-69 0:00,No,No data,No data,Yes,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,18052,08-01-14 2:27
+17033,Yes,No data,Male,27-09-37 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,18054,27-01-14 12:11
+17034,Yes,No data,Male,25-04-68 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,18055,07-02-14 15:20
+17035,No,05-05-14 0:00,Male,18-04-26 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,No,No,No data,Never smoked,No data,STEMI,18056,11-01-14 6:53
+17037,Yes,No data,Male,09-06-65 0:00,Yes,No,No,No,No,Yes,No,No,No,Yes,Never smoked,No data,STEMI,18059,11-03-14 3:48
+17132,Yes,No data,Male,18-08-57 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,18160,16-01-14 16:47
+17133,Yes,No data,Male,15-11-36 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,18161,28-01-14 0:20
+17134,No,18-09-15 0:00,Male,25-07-51 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,No,No data,Never smoked,No data,NSTEMI,18162,07-02-14 12:16
+17136,No,23-10-14 0:00,Male,09-06-29 0:00,No,No data,No data,Yes,Yes,Yes,No data,Yes,No data,Yes,No data,No data,NSTEMI,18164,15-02-14 19:56
+17139,Yes,No data,Male,17-03-54 0:00,No,No,No,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,18167,13-02-14 9:44
+17235,No,02-02-14 0:00,Female,01-07-34 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,18270,25-01-14 12:45
+17236,Yes,No data,Male,09-04-33 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,18271,07-02-14 23:55
+17237,Yes,No data,Male,30-07-30 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,18272,13-01-14 11:39
+1804,No,24-01-14 0:00,Female,23-10-32 0:00,No,No data,No data,No data,No data,No data,No data,Yes,No data,No data,Never smoked,No data,NSTEMI,1832,18-01-14 21:09
+1808,Yes,No data,Male,11-07-57 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,1836,03-02-14 9:57
+1809,No,30-04-15 0:00,Female,08-04-41 0:00,No,No data,No data,No,No data,Yes,No,No,Yes,No data,Smoker,No data,STEMI,1837,24-02-14 13:10
+17337,No,08-02-15 0:00,Female,30-01-29 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,No data,No data,STEMI,18380,19-01-14 14:51
+17339,Yes,No data,Female,29-07-36 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,18382,01-02-14 8:25
+17340,Yes,No data,Male,15-01-50 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,No data,No data,STEMI,18383,15-02-14 21:00
+17239,Yes,No data,Female,15-12-56 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,18384,13-02-14 7:00
+17341,Yes,No data,Male,26-03-53 0:00,Yes,No data,No,Yes,No,Yes,No,No,No,No,No data,No data,NSTEMI,32353,03-03-14 9:02
+17341,Yes,No data,Male,26-03-53 0:00,Yes,No data,No data,Yes,No,Yes,No,No,No,No,No data,No data,NSTEMI,32353,03-03-14 9:02
+1811,No,19-05-14 0:00,Male,22-11-53 0:00,Yes,No data,No data,No,No data,No,No,No,Yes,No data,Smoker,No data,STEMI,1839,13-03-14 21:50
+1812,No,21-05-15 0:00,Male,28-11-37 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,1840,22-03-14 8:00
+17336,Yes,No data,Female,01-04-61 0:00,No,No,No,No,No,Yes,No,No,No,Yes,No data,No data,NSTEMI,18487,17-01-14 8:47
+17435,No,22-06-16 0:00,Female,26-03-26 0:00,No,No data,No data,No,No data,No data,No,No,No data,No data,Never smoked,No data,STEMI,18488,04-01-14 9:51
+17437,Yes,No data,Male,12-03-61 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,18490,01-02-14 19:30
+17438,Yes,No data,Male,09-06-49 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,18492,04-03-14 12:40
+1952,No,23-11-16 0:00,Female,14-03-53 0:00,Yes,No data,No data,Yes,No,Yes,No,Yes,No,Yes,Smoker,No data,STEMI,18493,17-02-14 7:48
+17451,Yes,No data,Male,03-08-56 0:00,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No data,No data,STEMI,48061,07-02-15 4:56
+17536,Yes,No data,Male,06-01-52 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,18599,23-01-14 15:53
+17538,Yes,No data,Female,17-02-42 0:00,No,No data,No data,No,No data,Yes,Yes,No,No,No data,No data,No data,NSTEMI,18601,27-02-14 17:49
+17539,Yes,No data,Female,14-07-70 0:00,Yes,No data,No data,Yes,No data,No,No,No,No,No,Never smoked,No data,STEMI,18602,05-03-14 9:08
+17540,Yes,No data,Male,13-03-60 0:00,No,No,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,18603,10-02-14 13:02
+17541,Yes,No data,Male,18-08-47 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,18604,13-03-14 8:29
+17631,Yes,No data,Female,02-08-63 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,18704,01-02-14 21:15
+17632,Yes,No data,Male,02-11-46 0:00,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Smoker,No data,STEMI,18705,15-02-14 11:39
+17633,Yes,No data,Male,19-06-65 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,18706,26-02-14 16:57
+17634,Yes,No data,Male,05-02-75 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,18707,05-03-14 9:55
+17635,Yes,No data,Female,22-09-53 0:00,No,No,No,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,18708,06-02-14 16:20
+17635,Yes,No data,Female,22-09-53 0:00,No,No,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,18708,06-02-14 16:20
+17726,No,28-10-16 0:00,Female,22-05-34 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,STEMI,18803,10-01-14 11:56
+17729,Yes,No data,Male,08-09-48 0:00,Yes,No,No,No,No,No data,Yes,No,No,No data,Smoker,No data,NSTEMI,18806,14-01-14 18:35
+17731,Yes,No data,Male,04-08-44 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,18808,26-02-14 20:40
+17732,Yes,No data,Female,24-05-42 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,18809,05-03-14 12:15
+17829,No,30-10-14 0:00,Male,04-02-46 0:00,No,No data,No data,Yes,No data,Yes,No data,Yes,No data,No data,Never smoked,No data,NSTEMI,18915,28-01-14 12:31
+17830,No,21-12-14 0:00,Male,07-09-29 0:00,No,No data,No data,Yes,No data,No,No,No,Yes,No data,No data,No data,STEMI,18916,23-01-14 5:56
+17831,Yes,No data,Female,07-05-70 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,18917,15-02-14 23:48
+17832,Yes,No data,Female,21-09-41 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,18918,06-03-14 10:50
+17931,Yes,No data,Male,07-10-53 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,19028,03-02-14 11:59
+17933,Yes,No data,Female,11-02-33 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,19030,15-02-14 11:02
+17934,No,14-04-14 0:00,Male,27-03-51 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,19031,07-03-14 14:15
+17935,No,21-02-14 0:00,Male,26-06-22 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,19032,13-02-14 16:25
+18023,Yes,No data,Female,20-06-47 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,NSTEMI,19134,07-01-14 20:00
+18026,Yes,No data,Female,16-06-57 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,19137,03-02-14 10:30
+18027,Yes,No data,Male,09-10-49 0:00,Yes,No,No,No,No,Yes,No,Yes,No,No,Smoker,No data,STEMI,19138,04-02-14 18:48
+18028,Yes,No data,Male,29-09-43 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,19139,13-02-14 13:16
+9596,Yes,No data,Female,08-06-48 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,9944,02-01-14 13:08
+18123,No,22-02-15 0:00,Female,16-07-31 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,19246,03-02-14 16:00
+18124,Yes,No data,Male,24-04-43 0:00,Yes,No,No,No,No,No,No,No,No,No,Never smoked,No data,STEMI,19247,10-02-14 23:31
+18125,Yes,No data,Female,15-05-56 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,19248,22-02-14 16:04
+18127,No,25-08-16 0:00,Female,06-06-46 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,NSTEMI,19250,20-02-14 15:38
+18226,Yes,No data,Male,23-02-59 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,19356,13-01-14 20:51
+10105,Yes,No data,Male,23-04-38 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,19357,14-01-14 16:40
+10105,Yes,No data,Male,23-04-38 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,19357,14-01-14 16:40
+18229,No,03-07-15 0:00,Male,20-02-49 0:00,Yes,No data,No data,No,No data,No data,No,No,Yes,No data,Smoker,No data,STEMI,19360,03-02-14 11:48
+18230,No,12-09-14 0:00,Female,17-03-46 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,19361,18-02-14 17:46
+18232,Yes,No data,Female,03-02-77 0:00,No,No data,No data,No,No data,No,No,Yes,No,No data,Never smoked,No data,STEMI,19363,24-02-14 10:17
+18233,No,19-12-14 0:00,Male,07-11-26 0:00,No,No,No,No,No,Yes,No,No,Yes,Yes,Never smoked,No data,NSTEMI,19364,03-01-14 3:21
+1911,Yes,No data,Female,22-04-36 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,1943,09-02-14 15:29
+1912,No,11-10-14 0:00,Female,25-10-34 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,1944,03-02-14 10:08
+1914,No,02-03-14 0:00,Female,04-05-29 0:00,No,No,No,No,No,Yes,No,No,No,Yes,No data,No data,NSTEMI,1946,08-02-14 19:13
+1914,No,02-03-14 0:00,Female,04-05-29 0:00,No,No,No,No,No,Yes,No,No,No,Yes,No data,No data,NSTEMI,1946,08-02-14 19:13
+18327,Yes,No data,Male,28-08-47 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,19468,16-01-14 13:40
+1915,Yes,No data,Male,28-02-52 0:00,Yes,No data,No data,No,No data,No,No,No,No data,No data,Smoker,No data,NSTEMI,1947,11-03-14 16:16
+18330,Yes,No data,Male,19-12-71 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,19471,04-02-14 0:05
+18331,Yes,No data,Male,22-08-60 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,Smoker,No data,NSTEMI,19472,01-02-14 18:32
+18335,Yes,No data,Female,23-02-54 0:00,Yes,No data,No data,Yes,No data,Yes,No data,Yes,No data,No data,No data,No data,STEMI,19476,21-02-14 16:38
+18427,Yes,No data,Male,18-01-58 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,19580,01-02-14 11:55
+18428,Yes,No data,Male,14-07-43 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,19581,29-01-14 11:55
+18430,Yes,No data,Female,06-04-50 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,Yes,No data,Smoker,No data,STEMI,19584,21-02-14 2:15
+18431,Yes,No data,Male,30-04-53 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,Smoker,No data,NSTEMI,19585,26-02-14 4:45
+18531,Yes,No data,Male,25-03-56 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,19691,11-01-14 12:10
+18531,Yes,No data,Male,25-03-56 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,19691,11-01-14 12:10
+18532,No,31-01-14 0:00,Female,06-08-34 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,19692,06-01-14 19:26
+18533,No,09-02-14 0:00,Male,02-03-49 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,19693,28-01-14 15:09
+18535,Yes,No data,Female,01-03-36 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,19695,07-01-14 5:36
+18536,Yes,No data,Male,11-05-58 0:00,Yes,No data,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,19696,03-02-14 7:39
+18632,No,10-01-14 0:00,Female,05-09-24 0:00,Yes,No data,No data,No,No data,No,No,Yes,Yes,No data,Never smoked,No data,STEMI,19801,10-01-14 21:15
+9959,No,27-04-16 0:00,Female,02-09-35 0:00,No,No data,No data,Yes,No data,Yes,Yes,Yes,Yes,No data,No data,No data,NSTEMI,19802,04-01-14 19:20
+18633,Yes,No data,Female,17-12-59 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No,No data,No data,STEMI,19803,21-01-14 15:17
+18633,Yes,No data,Female,17-12-59 0:00,No,No data,No,No,No data,Yes,No,Yes,No,No,No data,No data,STEMI,19803,21-01-14 15:17
+18635,Yes,No data,Female,15-03-29 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,19805,04-02-14 22:45
+18636,Yes,No data,Male,22-04-68 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,19806,23-02-14 14:37
+18638,Yes,No data,Male,27-03-49 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,19808,20-02-14 23:00
+18639,Yes,No data,Female,24-03-51 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,19809,28-02-14 23:33
+18737,Yes,No data,Male,24-08-58 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,19915,14-01-14 1:30
+18739,Yes,No data,Male,13-11-53 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,19917,08-01-14 8:59
+18740,Yes,No data,Female,20-02-28 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,19918,05-02-14 8:00
+18741,Yes,No data,Male,27-12-52 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,19919,05-02-14 11:40
+18742,Yes,No data,Female,25-01-33 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No data,No data,Never smoked,No data,NSTEMI,19920,11-02-14 11:19
+1916,No,03-08-15 0:00,Male,11-11-50 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,1948,09-03-14 19:20
+18837,Yes,No data,Male,23-08-46 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,20025,19-02-14 17:20
+18838,No,27-02-14 0:00,Female,18-03-28 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,20026,27-02-14 13:27
+18930,Yes,No data,Male,28-02-89 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,20130,01-02-14 21:26
+18934,Yes,No data,Male,12-12-62 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,20134,11-03-14 10:55
+18935,Yes,No data,Male,03-01-39 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,20135,14-02-14 16:44
+19026,No,28-03-14 1:30,Female,13-02-30 0:00,No,No data,No data,Yes,Yes,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,20234,16-01-14 18:00
+19029,Yes,No data,Female,19-03-59 0:00,Yes,No,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,32452,17-02-14 15:53
+19029,Yes,No data,Female,19-03-59 0:00,Yes,No,No,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,32452,17-02-14 15:53
+19030,Yes,No data,Male,09-03-41 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,20241,12-03-14 14:30
+19031,No,12-12-14 0:00,Male,05-09-27 0:00,No,No data,No data,Yes,No data,No data,No data,No data,No data,No data,A doh nyz st abbahagyta,No data,NSTEMI,20242,25-02-14 16:54
+19031,No,12-12-14 0:00,Male,05-09-27 0:00,No,No data,No,Yes,No data,No data,No data,No data,No data,No data,A doh nyz st abbahagyta,No data,NSTEMI,20242,25-02-14 16:54
+19131,Yes,No data,Female,06-06-45 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Never smoked,No data,STEMI,20348,05-01-14 13:43
+19131,Yes,No data,Female,06-06-45 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Never smoked,No data,STEMI,20348,05-01-14 13:43
+19134,No,27-02-14 0:00,Male,22-06-30 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,20351,11-02-14 22:38
+19134,No,27-02-14 0:00,Male,22-06-30 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,20351,11-02-14 22:38
+19135,Yes,No data,Male,06-06-47 0:00,No,No data,No data,Yes,No,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,20352,28-02-14 13:38
+19225,Yes,No data,Male,07-06-53 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,20454,18-02-14 17:24
+19226,No,25-01-15 0:00,Male,08-04-55 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,20456,01-03-14 18:13
+2018,No,17-09-14 0:00,Male,17-05-26 0:00,Yes,No,No,No,No data,Yes,No,No data,No,No data,Never smoked,No data,STEMI,40679,14-09-14 1:40
+2022,Yes,No data,Female,21-12-47 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,2056,26-01-14 17:15
+19323,No,09-03-14 0:00,Male,02-05-28 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,20561,06-01-14 9:55
+19326,Yes,No data,Male,16-02-52 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,20565,17-03-14 9:20
+19327,Yes,No data,Male,03-01-42 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,20566,04-03-14 2:39
+2023,Yes,No data,Male,13-08-57 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,2057,11-02-14 11:24
+2025,Yes,No data,Male,23-10-33 0:00,Yes,No data,No,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,2059,14-02-14 21:42
+2026,No,19-06-15 0:00,Female,21-02-48 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,13510,10-02-14 1:23
+2026,No,19-06-15 0:00,Female,21-02-48 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,13510,10-02-14 1:23
+2027,No,11-07-14 0:00,Male,21-05-38 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,2061,09-02-14 20:45
+19421,No,16-04-14 0:00,Female,10-10-33 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,Never smoked,No data,STEMI,20672,27-01-14 14:21
+19424,No,02-07-14 0:00,Male,02-04-31 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,No,No data,Never smoked,No data,NSTEMI,20675,15-03-14 4:10
+19516,Yes,No data,Male,31-01-52 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,20779,18-02-14 10:58
+19517,Yes,No data,Male,11-10-53 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,Yes,No data,Never smoked,No data,STEMI,20780,17-03-14 6:00
+19518,No,15-08-16 0:00,Female,11-06-41 0:00,Yes,No data,No data,Yes,Yes,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,20781,07-03-14 14:12
+19604,Yes,No data,Female,02-05-35 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,20879,06-01-14 9:11
+19612,Yes,No data,Male,02-09-33 0:00,No,No data,No data,Yes,No data,Yes,Yes,Yes,No data,No data,Never smoked,No data,NSTEMI,20887,20-03-14 8:30
+19613,Yes,No data,Male,09-05-38 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,20888,04-03-14 17:11
+19710,No,12-09-16 0:00,Male,19-06-34 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,20987,03-01-14 12:14
+1694,No,22-03-14 0:00,Female,23-11-34 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,20988,23-01-14 22:00
+19712,No,15-02-14 0:00,Female,14-05-31 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,20990,08-02-14 20:00
+19717,No,27-02-14 0:00,Male,28-11-51 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,STEMI,20995,25-02-14 9:24
+19798,Yes,No data,Male,04-07-55 0:00,No,Yes,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,21089,11-01-14 22:02
+19805,Yes,No data,Female,26-06-49 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,21096,10-03-14 18:03
+19806,No,28-02-14 0:00,Male,21-11-53 0:00,No,No data,No data,Yes,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,21097,25-02-14 12:08
+19897,Yes,No data,Female,28-04-59 0:00,No,No,No,Yes,No,Yes,No,No,No,Yes,No data,No data,NSTEMI,21197,10-01-14 18:50
+19904,No,14-11-14 0:00,Female,25-12-24 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,21204,12-03-14 20:10
+19995,Yes,No data,Male,10-03-42 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,21305,19-01-14 15:33
+20001,Yes,No data,Male,27-02-42 0:00,No,No,No data,No,No,Yes,No,No,No,Yes,Never smoked,No data,NSTEMI,37869,11-02-14 15:11
+20001,Yes,No data,Male,27-02-42 0:00,No,No,No,No,No,Yes,No,No,No,Yes,Never smoked,No data,NSTEMI,37869,11-02-14 15:11
+20001,Yes,No data,Male,27-02-42 0:00,No,No,No,No,No,Yes,No,No,No,Yes,Never smoked,No data,NSTEMI,37869,11-02-14 15:11
+20002,No,28-10-15 0:00,Female,24-11-40 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,21312,13-03-14 12:38
+20003,No,23-09-16 0:00,Male,14-09-29 0:00,Yes,No data,No data,No,No data,No,No,Yes,No,No data,Never smoked,No data,STEMI,21313,12-03-14 16:59
+16059,No,10-03-15 0:00,Female,10-01-35 0:00,Yes,No,No data,No,No,Yes,No,No,No,No,No data,No data,STEMI,21415,19-01-14 16:08
+15022,Yes,No data,Male,10-01-53 0:00,Yes,No data,No data,Yes,No,Yes,Yes,No,Yes,Yes,A doh nyz st abbahagyta,No data,NSTEMI,21418,25-01-14 16:59
+20096,Yes,No data,Male,29-02-52 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,21422,16-03-14 12:15
+20097,Yes,No data,Female,22-05-57 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,STEMI,21423,25-02-14 14:19
+20189,No,14-01-14 0:00,Male,25-09-58 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,21524,13-01-14 10:20
+20194,Yes,No data,Male,15-12-60 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,21529,08-03-14 15:49
+20195,Yes,No data,Female,16-05-31 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,21530,25-02-14 10:10
+213,No,10-01-14 0:00,Female,23-10-53 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,216,03-01-14 20:30
+20288,Yes,No data,Male,26-10-58 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,21632,07-02-14 13:05
+20289,No,28-09-14 0:00,Female,15-04-29 0:00,No,No data,No data,No data,No data,Yes,Yes,No data,No data,No data,No data,No data,STEMI,21633,24-01-14 14:24
+20292,No,08-12-14 0:00,Male,12-02-31 0:00,No,No data,No data,Yes,No data,Yes,Yes,No,No,No data,Never smoked,No data,NSTEMI,21636,18-02-14 12:34
+20293,Yes,No data,Female,19-09-77 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,STEMI,21637,24-02-14 0:25
+20294,Yes,No data,Female,14-10-42 0:00,Yes,No,No,No,No,Yes,Yes,No,No,No data,Never smoked,No data,NSTEMI,21638,20-03-14 14:34
+2135,Yes,No data,Female,12-11-37 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,2170,28-01-14 11:46
+2137,No,19-12-14 0:00,Male,23-02-55 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,2172,09-02-14 0:08
+2139,Yes,No data,Female,24-08-51 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,2174,15-02-14 16:00
+20390,Yes,No data,Male,25-04-57 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,Yes,Yes,No data,Never smoked,No data,STEMI,21744,06-02-14 17:26
+20391,Yes,No data,Male,26-10-57 0:00,Yes,No,No data,No,No data,No data,No,No,No,Yes,A doh nyz st abbahagyta,No data,STEMI,21745,28-01-14 23:28
+20391,Yes,No data,Male,26-10-57 0:00,Yes,No,No,No,No data,No data,No,No,No,Yes,A doh nyz st abbahagyta,No data,STEMI,21745,28-01-14 23:28
+20395,Yes,No data,Male,15-04-47 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,Yes,No,No data,Never smoked,No data,STEMI,21749,24-02-14 11:56
+2140,Yes,No data,Male,24-11-57 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,Never smoked,No data,NSTEMI,2175,22-02-14 18:36
+20396,Yes,No data,Female,02-03-65 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,21750,09-03-14 14:30
+20482,Yes,No data,Female,14-11-70 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,21845,01-01-14 22:00
+20483,No,25-01-14 0:00,Male,17-06-53 0:00,No,No data,No data,No,No data,No,No,No,No,No data,No data,No data,NSTEMI,21846,13-01-14 9:02
+20485,Yes,No data,Female,29-03-34 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,21848,10-01-14 14:23
+20486,Yes,No data,Male,05-02-50 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,STEMI,21849,29-01-14 7:31
+217,Yes,No data,Female,23-01-27 0:00,Yes,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,Never smoked,No data,NSTEMI,21853,24-02-14 0:53
+217,Yes,No data,Female,23-01-27 0:00,Yes,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,Never smoked,No data,NSTEMI,21853,24-02-14 0:53
+20490,Yes,No data,Male,22-08-35 0:00,No,No data,No data,No,No data,Yes,No,No data,No,No data,No data,No data,NSTEMI,21854,17-03-14 14:10
+20580,No,17-09-16 0:00,Female,03-12-57 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,21955,01-01-14 0:54
+20582,No,19-07-15 0:00,Male,29-11-35 0:00,No,No data,No data,Yes,No data,No,No,No,Yes,No data,Never smoked,No data,NSTEMI,21957,03-01-14 7:30
+20586,Yes,No data,Male,03-07-49 0:00,Yes,No data,No,Yes,Yes,Yes,Yes,No,Yes,No data,Never smoked,No data,NSTEMI,31152,19-02-14 10:54
+20586,Yes,No data,Male,03-07-49 0:00,Yes,No data,No data,Yes,Yes,Yes,Yes,No,Yes,No data,Never smoked,No data,NSTEMI,31152,19-02-14 10:54
+20587,Yes,No data,Female,08-05-42 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,Never smoked,No data,STEMI,21962,01-03-14 6:39
+20588,No,22-03-16 0:00,Female,08-05-30 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,NSTEMI,21963,11-03-14 14:32
+20679,Yes,No data,Male,02-09-51 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,22064,01-01-14 10:30
+20682,Yes,No data,Female,03-08-42 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,22067,15-02-14 8:43
+20685,Yes,No data,Male,21-03-65 0:00,No,No data,No data,No data,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,22070,18-02-14 21:49
+20686,No,20-08-15 0:00,Male,05-07-42 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,22071,03-03-14 11:30
+218,No,11-03-14 0:00,Female,16-09-57 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,221,11-03-14 8:57
+20778,No,19-02-14 0:00,Male,26-01-41 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,22174,03-01-14 10:16
+20780,Yes,No data,Male,19-08-67 0:00,Yes,No data,No data,No,No data,No,Yes,No,No,No data,Smoker,No data,STEMI,22176,22-01-14 18:18
+20781,Yes,No data,Male,02-02-48 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,22177,06-02-14 18:40
+20783,Yes,No data,Male,29-11-55 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,22179,25-01-14 16:34
+20785,Yes,No data,Female,20-12-38 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,22181,23-02-14 18:46
+20786,No,14-11-15 0:00,Female,09-01-33 0:00,No,No data,No data,Yes,No data,Yes,No data,Yes,Yes,No data,No data,No data,NSTEMI,22182,18-03-14 10:54
+20878,Yes,No data,Male,13-12-33 0:00,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Smoker,133,NSTEMI,22287,03-01-14 11:40
+20879,No,23-02-15 0:00,Male,06-11-47 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,Never smoked,No data,NSTEMI,22288,19-01-14 20:03
+8510,Yes,No data,Male,28-03-44 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,22290,11-02-14 11:16
+20882,No,23-02-15 0:00,Male,20-09-52 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,22292,20-01-14 10:27
+20884,Yes,No data,Male,16-10-63 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,22294,05-03-14 8:49
+20885,No,22-03-14 0:00,Male,16-03-61 0:00,Yes,Yes,No,No,No,No,No,No,No,No,Smoker,No data,STEMI,22295,15-03-14 23:22
+220,Yes,No data,Male,26-07-44 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,223,17-02-14 16:53
+20972,Yes,No data,Female,15-07-34 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,22394,10-01-14 11:39
+20973,Yes,No data,Male,19-04-55 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,22395,26-01-14 9:56
+20976,No,25-09-14 0:00,Male,01-01-34 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,STEMI,22398,02-01-14 18:10
+20977,Yes,No data,Male,06-01-66 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,22399,23-01-14 0:06
+20978,Yes,No data,Female,05-08-40 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,22400,19-02-14 11:42
+20979,No,09-04-14 0:00,Male,24-04-40 0:00,No,No,No,No data,No data,Yes,No data,Yes,No,Yes,No data,No data,NSTEMI,22401,17-03-14 22:04
+20979,No,09-04-14 0:00,Male,24-04-40 0:00,No,No,No data,No data,No data,Yes,No data,Yes,No,Yes,No data,No data,NSTEMI,22401,17-03-14 22:04
+20980,Yes,No data,Male,26-01-59 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,STEMI,22402,25-02-14 22:40
+21082,No,20-01-14 0:00,Female,27-03-33 0:00,No,No data,No data,No data,No data,Yes,Yes,No,Yes,No data,No data,No data,NSTEMI,22508,10-01-14 17:00
+21083,No,15-12-15 0:00,Male,20-04-46 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,22509,28-01-14 19:47
+21085,No,31-01-14 0:00,Female,04-02-33 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,22511,27-01-14 14:09
+21087,Yes,No data,Male,15-06-49 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,22513,24-01-14 17:16
+21089,No,29-01-14 0:00,Female,14-04-28 0:00,No,No data,No data,No,No data,Yes,Yes,No data,No data,No data,No data,No data,STEMI,22515,21-01-14 9:16
+21188,No,21-01-14 0:00,Male,29-12-37 0:00,No,No data,No data,No data,No data,Yes,No data,No,No data,No data,No data,No data,NSTEMI,22620,21-01-14 8:23
+21190,Yes,No data,Male,19-09-51 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,22622,05-01-14 23:19
+21193,Yes,No data,Male,16-11-40 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,22625,27-01-14 8:00
+21194,Yes,No data,Male,22-01-33 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,22626,07-03-14 9:25
+21195,Yes,No data,Female,26-07-41 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,22627,07-01-14 12:04
+21284,No,11-01-14 0:00,Female,08-10-33 0:00,No,No data,No data,Yes,No data,Yes,Yes,No,Yes,No data,No data,No data,NSTEMI,22728,03-01-14 7:49
+21287,Yes,No data,Male,21-03-62 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,22731,15-02-14 16:19
+21291,Yes,No data,Female,03-01-45 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,NSTEMI,22735,22-01-14 13:13
+21292,No,17-01-14 0:00,Female,21-07-58 0:00,Yes,No data,No data,No,No,No,No,No,No,No,No data,No data,STEMI,22736,07-01-14 10:43
+2241,No,01-11-14 0:00,Male,24-01-53 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,2279,24-01-14 12:15
+2243,No,05-03-14 0:00,Female,01-06-46 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,2281,17-02-14 19:02
+2245,Yes,No data,Male,26-12-59 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,2283,13-02-14 15:20
+2246,Yes,No data,Female,04-10-49 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,2284,24-02-14 14:14
+21385,Yes,No data,Male,22-12-60 0:00,Yes,No data,No,No,No,No data,No data,No data,No data,No data,No data,No data,STEMI,22843,31-01-14 20:42
+21385,Yes,No data,Male,22-12-60 0:00,Yes,No data,No data,No,No,No data,No data,No data,No data,No data,No data,No data,STEMI,22843,31-01-14 20:42
+21387,Yes,No data,Male,22-09-57 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,22845,06-01-14 14:58
+21389,No,29-03-14 0:00,Male,29-01-63 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,22847,27-02-14 8:15
+21390,No,08-01-14 0:00,Female,27-09-29 0:00,No,No,No,No,No,No,No,Yes,No,No data,Never smoked,No data,STEMI,22848,06-01-14 11:38
+2247,Yes,No data,Male,21-11-61 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,2285,15-03-14 0:53
+2248,No,20-03-14 0:00,Male,09-07-26 0:00,No,No data,No data,No,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,2286,04-03-14 12:00
+21478,Yes,No data,Male,03-12-53 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,22943,02-01-14 14:49
+13817,Yes,No data,Female,13-02-52 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,Yes,No,No data,Never smoked,No data,STEMI,22944,03-01-14 15:35
+13817,Yes,No data,Female,13-02-52 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,Yes,No,No data,Never smoked,No data,STEMI,22944,03-01-14 15:35
+21479,No,28-03-16 0:00,Female,23-02-36 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,22945,16-01-14 17:13
+21482,Yes,No data,Male,18-03-64 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Never smoked,No data,NSTEMI,22948,05-02-14 14:06
+21482,Yes,No data,Male,18-03-64 0:00,Yes,No,No data,No,No,Yes,No,No,No,No,Never smoked,No data,NSTEMI,22948,05-02-14 14:06
+21484,Yes,No data,Male,06-12-56 0:00,No,No,No,No,No,Yes,No,Yes,No,No,No data,No data,NSTEMI,22950,09-02-14 8:49
+21486,No,16-03-14 0:00,Female,10-02-24 0:00,No,No data,No data,No,No data,Yes,No,No data,No data,No data,No data,No data,NSTEMI,22952,25-02-14 10:09
+9499,Yes,No data,Male,16-06-53 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,No,No,No data,Never smoked,No data,STEMI,23052,10-01-14 2:10
+9499,Yes,No data,Male,16-06-53 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,No,No,No data,Never smoked,No data,STEMI,23052,10-01-14 2:10
+21580,Yes,No data,Male,08-12-51 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,23053,16-01-14 5:22
+21582,Yes,No data,Female,13-04-38 0:00,No,No data,No data,No,No data,Yes,Yes,Yes,Yes,No data,Never smoked,No data,NSTEMI,23055,02-02-14 18:07
+21583,Yes,No data,Male,03-01-54 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,23056,27-01-14 19:37
+21584,Yes,No data,Female,05-07-38 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,23057,22-01-14 0:32
+21585,Yes,No data,Female,10-02-55 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Smoker,No data,NSTEMI,23058,03-02-14 8:00
+21587,Yes,No data,Female,06-04-55 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,Yes,No data,Smoker,No data,STEMI,23060,08-03-14 21:28
+21588,Yes,No data,Male,09-06-68 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,STEMI,23061,25-02-14 13:54
+21670,Yes,No data,Male,28-05-44 0:00,Yes,No,No,Yes,No,No,No,No,No,No,Never smoked,90,NSTEMI,23157,02-01-14 14:52
+21671,No,18-06-14 0:00,Male,17-11-50 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,Yes,No data,Smoker,No data,NSTEMI,23158,17-01-14 5:52
+21672,Yes,No data,Male,03-01-62 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,Yes,No data,No data,No data,STEMI,23159,13-01-14 14:24
+21673,No,25-02-14 0:00,Female,30-08-44 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,23160,30-01-14 13:34
+21674,Yes,No data,Female,27-09-56 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,23161,13-02-14 12:31
+21675,No,26-02-14 0:00,Female,23-04-21 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Never smoked,No data,NSTEMI,23162,25-02-14 16:23
+21766,Yes,No data,Female,02-06-37 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,23265,03-01-14 8:27
+21767,Yes,No data,Female,18-04-62 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,23266,17-01-14 7:53
+21769,Yes,No data,Female,09-12-37 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,23268,10-02-14 16:01
+21770,No,02-10-15 0:00,Female,12-12-28 0:00,Yes,No,No,Yes,Yes,Yes,No data,Yes,No data,No data,Never smoked,No data,NSTEMI,23269,27-01-14 17:57
+21770,No,02-10-15 0:00,Female,12-12-28 0:00,Yes,No,No data,Yes,Yes,Yes,No data,Yes,No data,No data,Never smoked,No data,NSTEMI,23269,27-01-14 17:57
+21772,Yes,No data,Male,27-08-55 0:00,Yes,No,No,No,No,No,No,No,No,Yes,A doh nyz st abbahagyta,No data,STEMI,23271,15-02-14 14:42
+21775,Yes,No data,Female,16-10-44 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,23274,24-02-14 14:58
+21858,Yes,No data,Female,18-07-42 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,23374,03-01-14 16:41
+21859,Yes,No data,Female,07-10-41 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Never smoked,No data,NSTEMI,23376,07-01-14 2:52
+21860,Yes,No data,Male,09-07-56 0:00,Yes,No data,No data,No data,No data,Yes,Yes,No data,No data,No data,No data,No data,STEMI,23377,13-01-14 11:07
+21861,No,17-02-16 0:00,Female,11-07-35 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,23378,07-02-14 16:45
+21863,No,29-03-14 0:00,Male,20-09-43 0:00,No,No data,No data,Yes,No data,Yes,Yes,Yes,Yes,No data,No data,No data,NSTEMI,23380,09-01-14 22:49
+21866,Yes,No data,Male,02-03-22 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Smoker,No data,STEMI,32990,05-03-14 20:43
+21866,Yes,No data,Male,02-03-22 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Smoker,No data,STEMI,32990,05-03-14 20:43
+21867,Yes,No data,Female,01-07-56 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,Yes,No data,Smoker,No data,STEMI,23384,26-02-14 0:02
+21960,No,10-01-14 0:00,Female,14-09-28 0:00,No,No,No,No,Yes,Yes,No,Yes,No,No,Never smoked,175,NSTEMI,23483,04-01-14 20:05
+21961,Yes,No data,Male,19-08-51 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,23484,16-01-14 11:14
+21962,Yes,No data,Male,07-07-64 0:00,Yes,No data,No data,Yes,No data,No,No,No,No,No data,Smoker,No data,STEMI,23486,09-02-14 10:53
+21963,Yes,No data,Male,14-09-42 0:00,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Never smoked,No data,STEMI,23487,11-02-14 1:06
+21967,Yes,No data,Male,20-12-62 0:00,Yes,No data,No data,No,No data,No data,No,Yes,No data,No data,Smoker,No data,STEMI,23491,11-03-14 5:40
+21968,Yes,No data,Female,07-12-22 0:00,No,No,No,No,No,Yes,No,No,No,No,No data,No data,STEMI,30550,13-01-14 8:08
+19508,No,22-11-16 0:00,Female,16-11-35 0:00,No,No,No,No,No,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,48245,22-02-15 23:24
+22056,Yes,No data,Male,14-02-67 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,23598,17-01-14 15:24
+22057,Yes,No data,Female,14-05-52 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,23599,14-01-14 10:53
+22059,No,04-05-16 0:00,Female,29-10-47 0:00,No,No,No data,No,Yes,Yes,No,No,No,Yes,No data,No data,NSTEMI,23601,21-01-14 3:01
+22059,No,04-05-16 0:00,Female,29-10-47 0:00,No,No,No,No,Yes,Yes,No,No,No,Yes,No data,No data,NSTEMI,23601,21-01-14 3:01
+22060,No,28-04-14 0:00,Male,06-04-56 0:00,No,No,No,Yes,No data,Yes,No,No,Yes,No data,Smoker,No data,NSTEMI,23602,04-01-14 16:37
+22062,Yes,No data,Male,25-07-42 0:00,No,No,No,No,No,No data,No,No data,No data,Yes,Smoker,No data,STEMI,23604,11-03-14 2:42
+22063,Yes,No data,Male,12-02-75 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,23605,27-02-14 14:15
+22149,Yes,No data,Female,03-05-68 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,23705,19-01-14 16:32
+22153,Yes,No data,Male,21-09-74 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,23709,09-03-14 12:45
+22247,Yes,No data,Male,15-08-57 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,23815,07-01-14 22:19
+22248,Yes,No data,Male,30-04-38 0:00,Yes,No,No data,Yes,No,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,23817,31-01-14 21:51
+22248,Yes,No data,Male,30-04-38 0:00,Yes,No,No,Yes,No,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,23817,31-01-14 21:51
+2349,Yes,No data,Male,27-01-37 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,2391,22-01-14 6:39
+22344,Yes,No data,Female,12-03-39 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,23926,11-01-14 17:24
+22345,Yes,No data,Male,13-09-59 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,23927,13-01-14 12:20
+22337,No,28-08-16 0:00,Male,17-01-48 0:00,Yes,No data,No,Yes,No,Yes,No,No,No,No,A doh nyz st abbahagyta,No data,NSTEMI,23928,24-01-14 22:22
+22337,No,28-08-16 0:00,Male,17-01-48 0:00,Yes,No data,No data,Yes,No,Yes,No,No,No,No,A doh nyz st abbahagyta,No data,NSTEMI,23928,24-01-14 22:22
+22346,Yes,No data,Male,08-06-46 0:00,Yes,No,No,No,No,Yes,No,No,No,No,No data,No data,STEMI,23929,03-01-14 1:30
+2351,Yes,No data,Male,19-08-39 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,2393,16-02-14 16:53
+2353,Yes,No data,Male,06-03-59 0:00,Yes,No data,No,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,2395,13-02-14 12:53
+2353,Yes,No data,Male,06-03-59 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,2395,13-02-14 12:53
+2353,Yes,No data,Male,06-03-59 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,2395,13-02-14 12:53
+2353,Yes,No data,Male,06-03-59 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,2395,13-02-14 12:53
+2355,Yes,No data,Female,15-08-51 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,2397,12-03-14 14:00
+2356,No,04-04-14 0:00,Male,26-12-51 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,2398,04-03-14 18:00
+22443,No,06-09-15 0:00,Male,11-02-40 0:00,Yes,No data,No data,Yes,No data,No,Yes,No,No,No data,Never smoked,No data,NSTEMI,24038,09-01-14 21:14
+22444,No,20-06-14 0:00,Male,31-05-38 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,24039,03-01-14 2:37
+22445,Yes,No data,Male,14-06-47 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,STEMI,24040,11-01-14 19:41
+22446,No,16-01-15 0:00,Male,22-05-41 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,24041,06-01-14 12:46
+22518,Yes,No data,Male,31-07-50 0:00,No,No,No,Yes,Yes,Yes,Yes,No data,Yes,Yes,Smoker,90,NSTEMI,57916,14-07-15 15:09
+22542,No,20-12-14 0:00,Male,04-04-37 0:00,Yes,No,No,Yes,No data,Yes,No,Yes,Yes,No data,Never smoked,No data,STEMI,32488,28-04-14 12:35
+22545,No,03-03-14 0:00,Male,19-02-47 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,24150,04-01-14 22:40
+22641,Yes,No data,Male,03-02-31 0:00,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Smoker,No data,STEMI,34678,22-05-14 17:49
+22644,Yes,No data,Male,03-01-48 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,24264,14-01-14 9:08
+22645,Yes,No data,Female,26-06-37 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Never smoked,No data,STEMI,24265,29-01-14 12:30
+22646,No,16-02-14 0:00,Female,11-01-43 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,Never smoked,No data,NSTEMI,24266,19-01-14 22:20
+22647,Yes,No data,Female,30-06-43 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Never smoked,No data,NSTEMI,24267,25-02-14 22:33
+22745,No,14-01-15 0:00,Male,19-05-59 0:00,No,No data,No data,Yes,No data,Yes,Yes,No data,Yes,No data,Smoker,No data,NSTEMI,24377,13-01-14 17:33
+22746,Yes,No data,Female,05-05-49 0:00,No,No,No,Yes,No,Yes,No,No,No,No,Never smoked,No data,NSTEMI,24378,10-02-14 12:17
+22747,No,03-03-15 0:00,Male,15-12-51 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Never smoked,No data,NSTEMI,24379,14-02-14 0:29
+22748,Yes,No data,Male,27-05-74 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,24380,17-02-14 14:19
+22835,No,26-10-16 0:00,Female,26-08-37 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,24486,14-01-14 12:30
+22836,Yes,No data,Male,30-09-80 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,24487,05-02-14 20:30
+22837,No,20-02-14 0:00,Female,18-07-28 0:00,No,No data,No data,Yes,No data,Yes,Yes,Yes,Yes,No data,Never smoked,No data,STEMI,24488,21-01-14 10:00
+22838,Yes,No data,Male,26-06-54 0:00,No,No data,No,No,No,Yes,No,No,No,Yes,No data,No data,NSTEMI,24489,13-02-14 8:30
+22839,Yes,No data,Female,19-03-44 0:00,No,No data,No data,No,No data,Yes,No,No data,No data,No data,Never smoked,No data,STEMI,24490,17-02-14 13:49
+22938,Yes,No data,Male,01-07-41 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,24598,14-02-14 6:45
+22939,Yes,No data,Male,12-03-46 0:00,Yes,No,No data,No,Yes,No,No,Yes,No data,No data,Smoker,No data,NSTEMI,41660,26-01-14 18:06
+22939,Yes,No data,Male,12-03-46 0:00,Yes,No,No,No,Yes,No,No,Yes,No data,No data,Smoker,No data,NSTEMI,41660,26-01-14 18:06
+23038,Yes,No data,Male,14-06-41 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,24707,23-01-14 8:20
+23039,No,19-03-14 0:00,Female,16-09-24 0:00,No,No,No data,No,No,Yes,Yes,No,Yes,Yes,A doh nyz st abbahagyta,No data,NSTEMI,24708,23-01-14 14:00
+23040,Yes,No data,Male,26-06-60 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,24709,14-02-14 10:00
+23041,Yes,No data,Female,16-09-28 0:00,No,No data,No data,No data,No data,Yes,No data,No,No data,No data,Never smoked,No data,NSTEMI,24710,22-02-14 17:41
+23137,No,11-02-14 0:00,Female,25-08-14 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,24818,08-02-14 15:03
+23138,No,10-02-14 0:00,Female,05-05-21 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,Yes,No data,Smoker,No data,NSTEMI,24819,08-02-14 9:00
+23139,Yes,No data,Male,06-10-62 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,24820,14-02-14 19:35
+23140,No,22-02-14 0:00,Female,30-12-19 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,24821,18-02-14 15:00
+23228,Yes,No data,Male,26-10-54 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,24917,13-01-14 10:53
+23231,No,20-02-14 0:00,Male,08-06-52 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,24921,14-02-14 19:00
+2457,Yes,No data,Female,14-04-45 0:00,No,No,No,No,No data,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,2499,08-01-14 10:20
+2457,Yes,No data,Female,14-04-45 0:00,No,No,No data,No,No data,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,2499,08-01-14 10:20
+2458,No,03-02-14 0:00,Male,14-06-44 0:00,Yes,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,No data,No data,STEMI,2500,09-01-14 14:00
+2459,No,17-01-14 0:00,Male,02-03-39 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,2501,17-01-14 10:50
+2460,No,30-01-14 0:00,Female,05-02-41 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,2502,27-01-14 12:45
+23317,Yes,No data,Female,06-08-37 0:00,No,No data,No data,Yes,No,Yes,No,No,No data,No,Never smoked,No data,NSTEMI,25025,16-01-14 8:00
+23319,No,20-02-14 0:00,Female,05-06-47 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,25027,14-02-14 16:27
+2461,Yes,No data,Male,23-01-54 0:00,No,No data,No data,No,No data,Yes,No,No,Yes,No data,Smoker,No data,NSTEMI,2503,13-02-14 18:22
+15393,Yes,No data,Female,29-12-43 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,25030,16-03-14 7:14
+2462,Yes,No data,Male,11-01-52 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,Never smoked,No data,STEMI,2504,21-02-14 12:47
+2464,No,03-09-14 0:00,Male,21-10-35 0:00,No,No,No,No,No,No,No,No,No,Yes,Never smoked,No data,STEMI,2506,21-02-14 11:44
+2465,Yes,No data,Female,03-03-45 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,STEMI,2507,05-03-14 2:00
+23401,No,28-12-15 0:00,Male,21-05-58 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,No data,No data,STEMI,25134,12-01-14 18:47
+23402,No,30-12-16 0:00,Female,26-07-32 0:00,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Never smoked,256,NSTEMI,49012,01-06-15 8:00
+23403,No,22-03-16 0:00,Male,14-08-31 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,25136,13-01-14 14:38
+23404,Yes,No data,Male,22-02-35 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,25137,05-02-14 8:40
+23405,Yes,No data,Male,20-06-58 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,25138,15-02-14 17:50
+23496,Yes,No data,Female,08-11-52 0:00,Yes,No data,No data,No,No data,No,No,Yes,No,No data,Smoker,No data,STEMI,25242,13-01-14 21:50
+23498,Yes,No data,Male,14-07-39 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,25244,18-01-14 9:49
+23499,Yes,No data,Female,10-10-26 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,25246,15-02-14 18:20
+23500,Yes,No data,Male,30-03-44 0:00,No,No data,No data,No,No data,Yes,No,Yes,No data,No data,Never smoked,No data,STEMI,25247,14-02-14 12:19
+23502,No,12-06-16 0:00,Female,04-08-33 0:00,Yes,No,No data,Yes,No data,Yes,No,No,No,Yes,No data,No data,NSTEMI,25249,22-03-14 10:31
+23502,No,12-06-16 0:00,Female,04-08-33 0:00,Yes,No,No,Yes,No data,Yes,No,No,No,Yes,No data,No data,NSTEMI,25249,22-03-14 10:31
+23594,Yes,No data,Male,30-03-56 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,NSTEMI,25349,13-01-14 10:49
+23596,Yes,No data,Female,07-04-35 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,25352,14-02-14 22:00
+23598,Yes,No data,Male,25-11-33 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,25354,02-01-14 8:00
+23683,Yes,No data,Male,21-01-81 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,25453,01-01-14 7:30
+23686,No,25-06-16 0:00,Male,01-11-64 0:00,Yes,No data,No data,Yes,No data,No data,No data,Yes,No data,No data,No data,No data,NSTEMI,25456,20-01-14 17:50
+23688,Yes,No data,Female,03-07-57 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,25458,10-02-14 16:50
+23778,Yes,No data,Male,18-08-64 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,NSTEMI,25558,07-01-14 3:49
+23779,Yes,No data,Male,31-07-58 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,25559,15-01-14 8:22
+23781,Yes,No data,Male,19-05-57 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,25563,11-02-14 8:05
+23783,No,16-10-15 0:00,Female,22-01-52 0:00,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Never smoked,No data,NSTEMI,25566,24-02-14 22:25
+23783,No,16-10-15 0:00,Female,22-01-52 0:00,No,No,No data,Yes,No,Yes,Yes,No,Yes,Yes,Never smoked,No data,NSTEMI,25566,24-02-14 22:25
+23869,Yes,No data,Female,17-06-28 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,25662,03-01-14 22:47
+23870,Yes,No data,Male,19-04-66 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,25663,15-01-14 7:51
+18564,No,06-02-14 0:00,Male,12-05-38 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,25665,15-01-14 11:05
+23872,No,29-05-14 0:00,Female,08-02-38 0:00,No,No,No data,No,Yes,Yes,No,No,No,No,Never smoked,No data,NSTEMI,25666,09-02-14 15:50
+23872,No,29-05-14 0:00,Female,08-02-38 0:00,No,No,No data,No,Yes,Yes,No,No,No,No,Never smoked,No data,NSTEMI,25666,09-02-14 15:50
+23875,Yes,No data,Female,16-04-36 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,25670,02-01-14 8:47
+23960,Yes,No data,Female,12-11-61 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,No,No data,Never smoked,No data,NSTEMI,25768,02-01-14 13:14
+17936,Yes,No data,Male,14-07-45 0:00,Yes,Yes,No data,No,No,No,No,No,No,No,No data,No data,STEMI,19033,16-02-14 19:04
+17936,Yes,No data,Male,14-07-45 0:00,Yes,Yes,No data,No,No,No,No,No,No,No,No data,No data,STEMI,19033,16-02-14 19:04
+23967,Yes,No data,Female,07-03-32 0:00,No,No data,No data,Yes,Yes,Yes,Yes,No,No data,Yes,A doh nyz st abbahagyta,No data,NSTEMI,25776,27-02-14 5:39
+23968,Yes,No data,Female,22-12-33 0:00,No,No,No,No,No,No,No,No,No,No,Never smoked,No data,NSTEMI,34183,11-03-14 2:00
+24047,No,26-05-14 0:00,Female,20-11-38 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,25871,02-01-14 6:22
+24050,No,21-08-14 0:00,Female,06-11-37 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,25874,26-01-14 7:05
+24051,Yes,No data,Female,14-11-29 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,25875,11-02-14 13:29
+24056,No,17-09-14 0:00,Female,03-08-48 0:00,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Smoker,No data,NSTEMI,34181,22-03-14 13:55
+24148,Yes,No data,Male,14-11-60 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,NSTEMI,25981,06-01-14 3:29
+24151,Yes,No data,Male,29-03-54 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,25984,21-01-14 12:00
+24152,Yes,No data,Male,30-01-68 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,25985,12-02-14 11:39
+24156,Yes,No data,Male,03-04-42 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Never smoked,No data,NSTEMI,34186,28-03-14 9:34
+24156,Yes,No data,Male,03-04-42 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Never smoked,No data,NSTEMI,34186,28-03-14 9:34
+2562,Yes,No data,Male,10-08-29 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,Yes,No data,No data,No data,NSTEMI,2606,06-01-14 9:09
+2563,Yes,No data,Female,26-06-65 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,2607,09-01-14 9:47
+2565,Yes,No data,Female,17-04-40 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,2609,28-01-14 9:18
+24245,Yes,No data,Male,18-09-57 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,26094,06-01-14 9:19
+24251,Yes,No data,Female,22-01-31 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,26100,08-03-14 16:56
+24251,Yes,No data,Female,22-01-31 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,26100,08-03-14 16:56
+2567,No,03-08-14 0:00,Female,13-04-31 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,2611,15-02-14 19:07
+2569,Yes,No data,Male,02-09-75 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,STEMI,2613,09-03-14 6:20
+2571,No,12-03-14 0:00,Male,07-04-56 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,2615,28-02-14 9:25
+24344,Yes,No data,Male,03-06-57 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,26205,09-03-14 19:27
+24347,Yes,No data,Male,15-07-70 0:00,No,No,No data,No,No,No,No,No,No,No,Never smoked,No data,STEMI,30643,15-01-14 12:45
+24429,No,02-01-14 0:00,Male,03-07-19 0:00,No,No data,No data,Yes,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,26307,01-01-14 12:11
+24434,Yes,No data,Male,15-02-64 0:00,No,No,No,No,No,Yes,No,No,No data,No data,A doh nyz st abbahagyta,No data,NSTEMI,26312,05-03-14 3:58
+24524,No,01-03-14 0:00,Male,05-10-19 0:00,No,No data,No data,No,No data,No data,No data,No data,No,No data,No data,No data,STEMI,26420,05-02-14 19:48
+24525,No,29-11-15 0:00,Male,14-08-52 0:00,Yes,No data,No data,No,No data,Yes,No,No,No data,No data,Smoker,No data,STEMI,26421,03-02-14 18:42
+24526,Yes,No data,Female,22-01-65 0:00,Yes,No,No,No,No,Yes,No,Yes,No data,Yes,No data,No data,STEMI,26422,04-03-14 16:56
+24529,Yes,No data,Female,20-09-64 0:00,Yes,No,No,No,No,Yes,No,No,No,Yes,No data,No data,STEMI,30271,15-01-14 15:05
+24617,Yes,No data,Male,04-12-40 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,26526,15-01-14 15:18
+24697,No,09-04-14 0:00,Female,10-11-28 0:00,No,No data,No data,Yes,Yes,Yes,No,No,No,No data,No data,No data,STEMI,41206,02-01-14 14:42
+24702,Yes,No data,Male,24-08-47 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,STEMI,26627,27-02-14 9:06
+24703,Yes,No data,Female,31-05-68 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,26628,15-01-14 5:40
+24705,Yes,No data,Male,10-04-50 0:00,Yes,No,No,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,30449,16-01-14 9:13
+24796,No,11-01-14 0:00,Male,12-03-42 0:00,No,No data,No data,No,No data,Yes,No,No,Yes,No data,Smoker,No data,STEMI,26736,10-01-14 12:51
+24798,Yes,No data,Male,11-09-39 0:00,Yes,No data,No,Yes,No,Yes,Yes,No,No,Yes,No data,No data,NSTEMI,26738,28-02-14 3:14
+24798,Yes,No data,Male,11-09-39 0:00,Yes,No data,No data,Yes,No,Yes,Yes,No,No,Yes,No data,No data,NSTEMI,26738,28-02-14 3:14
+24799,Yes,No data,Male,23-12-65 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,26739,17-01-14 14:45
+24801,Yes,No data,Male,18-03-49 0:00,Yes,No,No data,No,No,Yes,No,Yes,No,No data,No data,No data,STEMI,26741,16-01-14 14:19
+2395,Yes,No data,Male,05-12-24 0:00,No,No data,No data,Yes,No data,Yes,No,No,Yes,No data,Never smoked,No data,NSTEMI,26846,11-02-14 8:17
+24887,Yes,No data,Male,05-09-58 0:00,Yes,No data,No data,No,No data,Yes,No,No,No data,No data,Smoker,No data,STEMI,26847,09-01-14 5:23
+24891,Yes,No data,Male,01-01-39 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,Yes,Yes,Never smoked,No data,NSTEMI,26851,24-02-14 23:27
+24975,Yes,No data,Male,23-12-61 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Smoker,No data,STEMI,26951,02-01-14 20:12
+24980,Yes,No data,Male,26-01-54 0:00,Yes,No data,No data,No,No data,No,No,No,Yes,No data,Smoker,No data,STEMI,26956,07-01-14 23:22
+24982,Yes,No data,Male,26-06-58 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,26958,04-03-14 9:40
+24984,Yes,No data,Male,07-04-66 0:00,Yes,No data,No data,No,No data,No data,No,No,No,No data,No data,No data,STEMI,26961,24-02-14 1:45
+21481,Yes,No data,Male,18-11-39 0:00,Yes,No data,No data,Yes,No data,No,No,Yes,No,No data,Never smoked,No data,STEMI,27060,03-01-14 13:45
+21481,Yes,No data,Male,18-11-39 0:00,Yes,No data,No data,Yes,No data,No,No,Yes,No,No data,Never smoked,No data,STEMI,27060,03-01-14 13:45
+25074,Yes,No data,Male,04-04-53 0:00,Yes,No data,No data,No,No data,Yes,No,No,No data,No data,No data,No data,NSTEMI,27065,05-01-14 22:06
+25076,Yes,No data,Male,18-12-67 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,No data,No data,STEMI,27067,02-03-14 12:55
+25077,No,04-01-16 0:00,Female,13-08-47 0:00,Yes,No data,No data,No,No,Yes,Yes,No,Yes,No,Smoker,No data,NSTEMI,27069,23-02-14 8:30
+2670,Yes,No data,Female,09-06-76 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,2716,02-01-14 14:29
+16838,Yes,No data,Male,16-08-50 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,Yes,No data,Smoker,No data,NSTEMI,27170,03-01-14 9:20
+16838,Yes,No data,Male,16-08-50 0:00,No,No data,No data,Yes,No data,Yes,No,Yes,Yes,No data,Smoker,No data,NSTEMI,27170,03-01-14 9:20
+25162,Yes,No data,Male,27-06-55 0:00,No,No data,No data,No,No data,Yes,No,Yes,Yes,No data,Smoker,No data,NSTEMI,27175,03-01-14 22:36
+25164,Yes,No data,Male,26-01-44 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,27177,22-02-14 12:09
+25165,Yes,No data,Female,17-10-45 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,27178,20-01-14 21:26
+25166,Yes,No data,Male,22-11-38 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No data,No data,Never smoked,No data,NSTEMI,27180,20-02-14 20:51
+2673,No,31-01-14 0:00,Male,09-03-35 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,2719,25-01-14 10:10
+2674,No,04-07-15 0:00,Male,10-04-54 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,2720,28-01-14 11:20
+2676,No,21-03-14 0:00,Male,26-12-51 0:00,No,No data,No data,No,No data,Yes,Yes,No,No,No data,Smoker,No data,NSTEMI,2722,07-02-14 13:00
+2677,Yes,No data,Male,05-11-39 0:00,No,No data,No data,Yes,No data,Yes,Yes,Yes,No data,No data,Never smoked,No data,NSTEMI,2723,01-03-14 23:04
+13914,Yes,No data,Male,06-06-67 0:00,Yes,No data,No data,Yes,No data,No,No,No,No,No data,Smoker,No data,STEMI,27281,13-01-14 13:00
+13914,Yes,No data,Male,06-06-67 0:00,Yes,No data,No data,Yes,No data,No,No,No,No,No data,Smoker,No data,STEMI,27281,13-01-14 13:00
+25251,No,28-03-15 0:00,Female,02-04-45 0:00,Yes,No data,No data,Yes,No,Yes,No,Yes,Yes,Yes,Never smoked,No data,STEMI,27285,03-01-14 18:51
+25253,Yes,No data,Female,17-09-51 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,27287,04-02-14 21:50
+25254,Yes,No data,Male,03-02-41 0:00,No,No,No,No,No,No,No,No data,No data,No,No data,No data,STEMI,27288,10-03-14 6:18
+25342,Yes,No data,Male,12-05-55 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,27392,12-01-14 21:33
+25347,Yes,No data,Male,27-04-71 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,27397,25-02-14 10:20
+25348,Yes,No data,Male,09-03-66 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,No,No,No data,Never smoked,No data,NSTEMI,27398,21-01-14 17:16
+25255,Yes,No data,Female,26-03-27 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,27400,20-02-14 1:20
+25430,No,17-01-14 0:00,Male,28-09-51 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,Yes,No data,Smoker,No data,STEMI,27503,09-01-14 22:45
+25434,No,06-03-14 0:00,Female,18-06-28 0:00,No,No,No,No,No,Yes,No,Yes,No,No,No data,No data,NSTEMI,27508,21-02-14 18:00
+25435,Yes,No data,Female,26-09-57 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,STEMI,27509,22-01-14 10:22
+25519,No,02-09-16 0:00,Male,15-03-40 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,Never smoked,No data,STEMI,27611,12-01-14 10:29
+25524,No,08-02-14 0:00,Male,18-02-46 0:00,No,No,No,No,Yes,Yes,No,No,Yes,No,A doh nyz st abbahagyta,No data,STEMI,34018,02-02-14 17:39
+25525,Yes,No data,Male,01-05-39 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,27617,19-02-14 14:50
+25526,Yes,No data,Female,01-02-45 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,31153,20-02-14 12:56
+25526,Yes,No data,Female,01-02-45 0:00,Yes,No data,No,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,31153,20-02-14 12:56
+25528,Yes,No data,Male,26-08-37 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,27620,19-02-14 11:58
+25618,Yes,No data,Male,20-01-68 0:00,Yes,No data,No data,Yes,No,Yes,No,No,Yes,Yes,Smoker,No data,STEMI,27719,10-01-14 2:19
+25619,Yes,No data,Female,02-02-44 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,No data,No data,NSTEMI,27721,06-01-14 10:00
+25621,Yes,No data,Male,04-03-56 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,27723,20-02-14 16:25
+25622,Yes,No data,Female,03-07-45 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,27724,20-02-14 22:39
+25623,Yes,No data,Male,31-03-47 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,27726,10-02-14 7:12
+25624,No,22-12-15 6:35,Male,24-12-36 0:00,Yes,No data,No data,Yes,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,30211,19-02-14 13:29
+25626,Yes,No data,Male,20-02-56 0:00,Yes,No,No data,No,No,Yes,No,No,No,No,Never smoked,No data,STEMI,27730,14-03-14 9:49
+25626,Yes,No data,Male,20-02-56 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Never smoked,No data,STEMI,27730,14-03-14 9:49
+25627,Yes,No data,Male,04-09-45 0:00,No,No data,No data,Yes,No data,Yes,No,No,No data,No data,Smoker,No data,NSTEMI,27731,19-02-14 11:16
+25627,Yes,No data,Male,04-09-45 0:00,No,No data,No data,Yes,No data,Yes,No,No,No data,No data,Smoker,No data,NSTEMI,27731,19-02-14 11:16
+25628,Yes,No data,Male,25-10-62 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,27732,28-02-14 2:53
+25628,Yes,No data,Male,25-10-62 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,27732,28-02-14 2:53
+25629,Yes,No data,Female,03-05-40 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,27733,10-03-14 1:43
+25629,Yes,No data,Female,03-05-40 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,STEMI,27733,10-03-14 1:43
+25630,Yes,No data,Male,14-01-43 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,27734,20-02-14 18:05
+25630,Yes,No data,Male,14-01-43 0:00,No,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,NSTEMI,27734,20-02-14 18:05
+25631,Yes,No data,Male,08-06-49 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,27735,08-03-14 1:26
+25631,Yes,No data,Male,08-06-49 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,27735,08-03-14 1:26
+25632,Yes,No data,Male,29-07-74 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,27736,16-02-14 7:40
+25632,Yes,No data,Male,29-07-74 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,27736,16-02-14 7:40
+25634,No,08-08-15 0:00,Female,11-07-40 0:00,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Never smoked,No data,NSTEMI,27738,15-02-14 11:29
+25634,No,08-08-15 0:00,Female,11-07-40 0:00,Yes,No,No data,Yes,No,Yes,No,Yes,Yes,Yes,Never smoked,No data,NSTEMI,27738,15-02-14 11:29
+25635,Yes,No data,Male,15-09-52 0:00,Yes,No,No data,No,No,No data,No,No data,No data,No data,Smoker,No data,NSTEMI,27739,13-03-14 14:47
+25635,Yes,No data,Male,15-09-52 0:00,Yes,No,No,No,No,No data,No,No data,No data,No data,Smoker,No data,NSTEMI,27739,13-03-14 14:47
+14417,Yes,No data,Male,17-03-43 0:00,No,No data,No data,No,No data,No data,Yes,No,No data,No data,Smoker,No data,NSTEMI,27744,15-02-14 15:52
+14417,Yes,No data,Male,17-03-43 0:00,No,No data,No data,No,No data,No data,Yes,No,No data,No data,Smoker,No data,NSTEMI,27744,15-02-14 15:52
+25640,No,21-08-16 0:00,Male,23-03-50 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,27745,16-02-14 20:18
+25640,No,21-08-16 0:00,Male,23-03-50 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,27745,16-02-14 20:18
+25646,Yes,No data,Male,03-03-52 0:00,Yes,No data,No data,No,No data,Yes,No,No,No data,No data,Never smoked,No data,STEMI,27751,12-02-14 9:22
+25646,Yes,No data,Male,03-03-52 0:00,Yes,No data,No data,No,No data,Yes,No,No,No data,No data,Never smoked,No data,STEMI,27751,12-02-14 9:22
+25647,No,28-10-15 0:00,Female,01-12-23 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,27752,03-02-14 18:57
+25647,No,28-10-15 0:00,Female,01-12-23 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,27752,03-02-14 18:57
+25662,No,03-04-14 0:00,Male,16-07-54 0:00,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No data,No data,NSTEMI,27768,15-02-14 16:39
+25662,No,03-04-14 0:00,Male,16-07-54 0:00,Yes,No,No data,Yes,Yes,Yes,Yes,Yes,No,No,No data,No data,NSTEMI,27768,15-02-14 16:39
+25663,Yes,No data,Male,14-09-53 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,27770,22-02-14 19:46
+25663,Yes,No data,Male,14-09-53 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,27770,22-02-14 19:46
+25666,Yes,No data,Female,25-01-50 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,27773,05-02-14 1:32
+25666,Yes,No data,Female,25-01-50 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,NSTEMI,27773,05-02-14 1:32
+25671,No,02-01-14 0:00,Male,03-03-52 0:00,No,No data,No data,No data,No data,Yes,No data,No,Yes,No data,Smoker,No data,STEMI,27779,02-01-14 1:02
+25671,No,02-01-14 0:00,Male,03-03-52 0:00,No,No data,No data,No data,No data,Yes,No data,No,Yes,No data,Smoker,No data,STEMI,27779,02-01-14 1:02
+25675,Yes,No data,Male,04-05-63 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,27784,27-01-14 4:00
+25675,Yes,No data,Male,04-05-63 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,27784,27-01-14 4:00
+25676,No,31-01-14 0:00,Male,04-04-30 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,No,No data,No data,No data,NSTEMI,27785,28-01-14 22:14
+25676,No,31-01-14 0:00,Male,04-04-30 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,No,No data,No data,No data,NSTEMI,27785,28-01-14 22:14
+25677,Yes,No data,Female,06-11-47 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No data,No data,Never smoked,No data,NSTEMI,27786,27-01-14 1:15
+25677,Yes,No data,Female,06-11-47 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,No data,No data,Never smoked,No data,NSTEMI,27786,27-01-14 1:15
+25678,Yes,No data,Male,25-04-40 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,No,No,No data,Never smoked,No data,NSTEMI,27787,27-01-14 1:34
+25678,Yes,No data,Male,25-04-40 0:00,Yes,No data,No data,Yes,No data,Yes,Yes,No,No,No data,Never smoked,No data,NSTEMI,27787,27-01-14 1:34
+25679,Yes,No data,Male,22-06-70 0:00,Yes,No data,No data,No,No data,No,No,No data,No,No data,Smoker,No data,STEMI,27788,24-01-14 11:20
+25679,Yes,No data,Male,22-06-70 0:00,Yes,No data,No data,No,No data,No,No,No data,No,No data,Smoker,No data,STEMI,27788,24-01-14 11:20
+25680,Yes,No data,Female,28-07-48 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,27789,16-01-14 9:20
+25680,Yes,No data,Female,28-07-48 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,Smoker,No data,STEMI,27789,16-01-14 9:20
+25688,No,24-05-14 0:00,Female,21-06-46 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,27799,20-01-14 11:13
+25688,No,24-05-14 0:00,Female,21-06-46 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,STEMI,27799,20-01-14 11:13
+25689,No,09-02-14 0:00,Female,04-04-34 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,No data,No data,Never smoked,No data,STEMI,27801,02-02-14 18:22
+25689,No,09-02-14 0:00,Female,04-04-34 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,No data,No data,Never smoked,No data,STEMI,27801,02-02-14 18:22
+25690,No,24-02-14 0:00,Male,21-08-39 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,No,No data,Never smoked,No data,STEMI,27802,27-01-14 21:00
+25690,No,24-02-14 0:00,Male,21-08-39 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,No,No data,Never smoked,No data,STEMI,27802,27-01-14 21:00
+25691,No,08-02-14 0:00,Female,13-11-46 0:00,Yes,No,No data,No,No,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,27803,05-02-14 0:29
+25691,No,08-02-14 0:00,Female,13-11-46 0:00,Yes,No,No data,No,No,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,27803,05-02-14 0:29
+25692,Yes,No data,Male,04-06-45 0:00,Yes,No data,No,No,No data,No,No,No,Yes,No data,No data,No data,STEMI,27804,19-01-14 22:17
+25692,Yes,No data,Male,04-06-45 0:00,Yes,No data,No data,No,No data,No,No,No,Yes,No data,No data,No data,STEMI,27804,19-01-14 22:17
+25696,Yes,No data,Female,01-04-48 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,Yes,No data,Smoker,No data,STEMI,27810,14-01-14 21:19
+25696,Yes,No data,Female,01-04-48 0:00,Yes,No data,No data,No,No data,Yes,Yes,Yes,Yes,No data,Smoker,No data,STEMI,27810,14-01-14 21:19
+25697,Yes,No data,Male,25-11-54 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,27811,10-01-14 13:52
+25697,Yes,No data,Male,25-11-54 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,STEMI,27811,10-01-14 13:52
+25698,Yes,No data,Male,29-06-51 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,Smoker,No data,NSTEMI,27812,04-01-14 14:00
+25698,Yes,No data,Male,29-06-51 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,Smoker,No data,NSTEMI,27812,04-01-14 14:00
+25702,Yes,No data,Male,23-06-37 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,Yes,No data,No data,No data,NSTEMI,27816,03-01-14 10:19
+25702,Yes,No data,Male,23-06-37 0:00,Yes,No data,No data,No,No data,Yes,Yes,No,Yes,No data,No data,No data,NSTEMI,27816,03-01-14 10:19
+25703,No,22-10-15 0:00,Male,22-03-29 0:00,Yes,No data,No data,No,No data,Yes,No,No,Yes,No data,No data,No data,NSTEMI,29654,13-01-14 12:35
+25704,Yes,No data,Female,08-04-41 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,27818,11-01-14 15:37
+25704,Yes,No data,Female,08-04-41 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,27818,11-01-14 15:37
+25706,Yes,No data,Male,19-11-48 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,27820,03-01-14 22:45
+25706,Yes,No data,Male,19-11-48 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,No data,No data,NSTEMI,27820,03-01-14 22:45
+25707,Yes,No data,Male,17-12-76 0:00,Yes,No,No data,No,No,Yes,No,No,No,No,Never smoked,No data,STEMI,27821,02-01-14 10:51
+25707,Yes,No data,Male,17-12-76 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Never smoked,No data,STEMI,27821,02-01-14 10:51
+25708,No,18-01-15 0:00,Male,10-12-38 0:00,No,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,NSTEMI,27822,09-01-14 15:48
+25710,Yes,No data,Female,10-12-42 0:00,Yes,No data,No data,No data,No data,Yes,No data,No,No data,No data,No data,No data,NSTEMI,27824,02-01-14 15:37
+25710,Yes,No data,Female,10-12-42 0:00,Yes,No data,No data,No data,No data,Yes,No data,No,No data,No data,No data,No data,NSTEMI,27824,02-01-14 15:37
+25711,Yes,No data,Male,11-09-47 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,NSTEMI,27825,05-01-14 10:03
+25711,Yes,No data,Male,11-09-47 0:00,Yes,No data,No data,No,No data,No,No,No,No,No data,Smoker,No data,NSTEMI,27825,05-01-14 10:03
+25715,Yes,No data,Female,22-09-42 0:00,Yes,No data,No data,No,No data,Yes,No,No,No data,No data,No data,No data,STEMI,27829,01-01-14 14:20
+25715,Yes,No data,Female,22-09-42 0:00,Yes,No data,No data,No,No data,Yes,No,No,No data,No data,No data,No data,STEMI,27829,01-01-14 14:20
+25716,Yes,No data,Female,28-03-50 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,27830,03-01-14 9:04
+25716,Yes,No data,Female,28-03-50 0:00,Yes,No data,No data,No,No data,Yes,No,Yes,No,No data,No data,No data,STEMI,27830,03-01-14 9:04
+25717,No,15-06-14 0:00,Female,12-03-40 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,29055,03-01-14 14:29
+25718,Yes,No data,Male,06-06-48 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,27832,03-01-14 16:40
+25718,Yes,No data,Male,06-06-48 0:00,Yes,No data,No data,No,No data,Yes,No,No,No,No data,No data,No data,STEMI,27832,03-01-14 16:40
+2785,Yes,No data,Female,28-09-44 0:00,Yes,No data,No data,Yes,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,2832,14-01-14 16:39
+2786,Yes,No data,Male,16-10-53 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,2833,29-01-14 12:35
+2788,Yes,No data,Female,07-02-16 0:00,No,No data,No data,No,No data,No,No,No,No,No data,Never smoked,No data,NSTEMI,2835,11-02-14 16:00
+2789,No,26-04-16 0:00,Female,15-01-29 0:00,No,No data,No data,Yes,No,Yes,No,No,Yes,No data,Never smoked,No data,NSTEMI,2836,26-02-14 13:52
+2790,Yes,No data,Female,23-08-45 0:00,Yes,No data,No data,Yes,No data,Yes,No,No,Yes,No data,Never smoked,No data,NSTEMI,2837,21-02-14 11:24
+2791,No,29-04-16 0:00,Male,04-02-57 0:00,Yes,No data,No data,Yes,No,Yes,Yes,Yes,No,No,No data,No data,NSTEMI,2838,10-02-14 9:55
+2792,Yes,No data,Female,10-08-36 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,Never smoked,No data,STEMI,2839,06-03-14 6:00
+26688,No,24-07-16 0:00,Female,06-02-44 0:00,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Never smoked,72,STEMI,30231,26-02-14 15:15
+13654,Yes,No data,Female,21-03-50 0:00,Yes,No data,No,Yes,No,Yes,No,Yes,No,No data,Never smoked,No data,NSTEMI,30232,26-03-14 17:07
+26689,Yes,No data,Male,30-01-62 0:00,No,No,No,No,No,Yes,No,No,No data,No,Never smoked,No data,NSTEMI,30233,22-03-14 8:35
+26690,Yes,No data,Male,04-08-56 0:00,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No data,No data,STEMI,31897,22-03-14 22:09
+26690,Yes,No data,Male,04-08-56 0:00,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No data,No data,STEMI,31897,22-03-14 22:09
+26692,Yes,No data,Female,26-09-67 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,NSTEMI,30235,27-02-14 10:24
+26691,Yes,No data,Male,25-01-64 0:00,No,No,No,No,No,Yes,No,No,No,Yes,No data,No data,STEMI,30236,20-03-14 9:09
+26694,Yes,No data,Female,14-12-58 0:00,Yes,No,No,No,No,Yes,No,No,No,Yes,Never smoked,66,NSTEMI,30238,26-02-14 7:57
+26695,Yes,No data,Female,22-02-41 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Never smoked,No data,STEMI,30239,28-02-14 17:46
+26696,No,04-03-14 0:00,Female,19-08-35 0:00,No,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,30240,18-02-14 12:10
+26697,Yes,No data,Male,02-10-59 0:00,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,Smoker,No data,STEMI,30241,26-02-14 13:24
+26699,Yes,No data,Female,26-05-39 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,A doh nyz st abbahagyta,No data,NSTEMI,39451,28-02-14 15:28
+26699,Yes,No data,Female,26-05-39 0:00,No,No data,No,No data,No data,Yes,No data,Yes,No data,No data,A doh nyz st abbahagyta,No data,NSTEMI,39451,28-02-14 15:28
+26708,Yes,No data,Female,03-01-38 0:00,No,No data,No data,No data,No data,Yes,Yes,No data,No data,No data,No data,No data,NSTEMI,30255,21-02-14 19:30
+26709,Yes,No data,Male,19-09-43 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Never smoked,No data,NSTEMI,30587,26-02-14 10:32
+26709,Yes,No data,Male,19-09-43 0:00,No,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Never smoked,No data,NSTEMI,30587,26-02-14 10:32
+26710,No,19-11-14 0:00,Male,15-05-50 0:00,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Never smoked,No data,NSTEMI,30257,17-03-14 15:25
+26711,Yes,No data,Female,07-12-54 0:00,No,No,No,No,No,Yes,No,No,No,Yes,Never smoked,No data,NSTEMI,30258,17-03-14 18:11
+26713,Yes,No data,Male,12-07-56 0:00,No,No,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,NSTEMI,32486,21-02-14 12:25
+26713,Yes,No data,Male,12-07-56 0:00,No,No,No,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,NSTEMI,32486,21-02-14 12:25
+26712,Yes,No data,Male,19-06-61 0:00,Yes,No,No,No,No,Yes,No,Yes,No,No,No data,No data,NSTEMI,30260,14-03-14 14:18
+26714,Yes,No data,Female,09-07-48 0:00,Yes,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,Never smoked,No data,STEMI,30261,03-03-14 14:33
+21774,No,01-04-14 0:00,Male,17-09-48 0:00,Yes,No data,No data,Yes,Yes,Yes,No data,No data,No data,No,Smoker,No data,NSTEMI,30262,05-03-14 9:45
+21774,No,01-04-14 0:00,Male,17-09-48 0:00,Yes,No data,No data,Yes,Yes,Yes,No data,No data,No data,No,Smoker,No data,NSTEMI,30262,05-03-14 9:45
+26715,Yes,No data,Female,02-11-49 0:00,No,No,No,No,No,No,No,No,No,No,Never smoked,98,STEMI,30263,07-03-14 13:47
+15679,No,13-01-14 0:00,Female,24-10-43 0:00,No,No,No data,No,No,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,16544,11-01-14 17:48
+15679,No,13-01-14 0:00,Female,24-10-43 0:00,No,No,No,No,No,Yes,No,No,No,No data,Never smoked,No data,NSTEMI,16544,11-01-14 17:48
+26718,Yes,No data,Male,20-12-70 0:00,Yes,No data,No data,No data,No data,No data,No data,No data,No data,No data,Never smoked,No data,STEMI,30267,28-02-14 12:00
+26719,No,10-06-14 0:00,Female,30-10-25 0:00,No,No,No,No data,Yes,Yes,No,No data,No,No data,No data,No data,NSTEMI,30268,02-04-14 9:32
+19883,Yes,No data,Female,28-04-61 0:00,Yes,No,No,Yes,Yes,No,No,No,No,No,A doh nyz st abbahagyta,70,STEMI,30269,04-03-14 9:00
+26720,Yes,No data,Male,11-03-45 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Never smoked,No data,STEMI,30270,06-03-14 8:52
+26722,Yes,No data,Male,08-11-47 0:00,No,No data,No data,No data,No data,Yes,No data,Yes,No data,No data,Smoker,No data,NSTEMI,30272,05-03-14 8:45
+26723,Yes,No data,Male,07-05-41 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Never smoked,97,STEMI,34086,04-03-14 17:45
+26723,Yes,No data,Male,07-05-41 0:00,Yes,No,No data,No,No,Yes,No,No,No,No,Never smoked,No data,STEMI,34086,04-03-14 17:45
+26724,Yes,No data,Female,14-02-44 0:00,No,Yes,No,No,No,Yes,No,Yes,No,No,Never smoked,104,STEMI,30274,09-03-14 0:50
+26724,Yes,No data,Female,14-02-44 0:00,No,Yes,No data,No,No,Yes,No,Yes,No,No,Never smoked,No data,STEMI,30274,09-03-14 0:50
+26725,No,15-03-14 0:00,Male,05-09-47 0:00,Yes,No,No,No,No,Yes,No,Yes,Yes,No data,A doh nyz st abbahagyta,No data,STEMI,30275,09-01-14 14:56
+26727,Yes,No data,Female,20-01-21 0:00,Yes,No,No,No,No,No,No,Yes,No,No data,No data,No data,STEMI,30277,06-03-14 23:42
+26728,No,08-03-14 0:00,Female,30-12-34 0:00,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No data,No data,NSTEMI,30278,07-03-14 4:38
+11119,No,16-08-16 0:00,Male,22-07-30 0:00,No,No data,No data,No,No data,Yes,No data,No,No data,No data,No data,No data,NSTEMI,11555,06-03-14 10:42
+11119,No,16-08-16 0:00,Male,22-07-30 0:00,No,No data,No data,No,No data,Yes,No data,No,No data,No data,No data,No data,NSTEMI,11555,06-03-14 10:42
+26729,No,31-03-14 0:00,Female,09-06-34 0:00,No,No,No,No,No,Yes,Yes,Yes,No,No,Never smoked,No data,STEMI,30280,31-03-14 9:17
+26731,Yes,No data,Female,17-06-56 0:00,Yes,No data,No data,No data,No data,Yes,No data,No data,No data,No data,Smoker,No data,STEMI,30281,08-03-14 9:15
+26732,No,31-03-14 0:00,Male,27-10-25 0:00,No,No,No,No data,No data,Yes,No,No,Yes,Yes,No data,No data,STEMI,30282,23-03-14 22:20
+26730,No,11-03-14 0:00,Male,05-04-53 0:00,Yes,No,No,No,No,No,No,No,Yes,No,Never smoked,No data,NSTEMI,30283,01-01-14 12:38
+26733,No,12-03-14 0:00,Female,21-06-66 0:00,Yes,Yes,Yes,No data,No data,No data,Yes,No data,No data,No data,No data,No data,STEMI,30284,12-03-14 18:10
+9613,No,23-10-14 0:00,Male,03-03-50 0:00,Yes,No,No,Yes,No,Yes,No,No,No,Yes,A doh nyz st abbahagyta,No data,STEMI,30285,25-01-14 9:41
+26734,Yes,No data,Male,27-05-55 0:00,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No data,No data,STEMI,30286,09-01-14 8:00
+26736,Yes,No data,Male,07-03-55 0:00,Yes,No data,No data,Yes,No,Yes,No,No,No,Yes,Smoker,No data,STEMI,30287,09-03-14 5:02
+26736,Yes,No data,Male,07-03-55 0:00,Yes,No data,No,Yes,No,Yes,No,No,No,Yes,Smoker,No data,STEMI,30287,09-03-14 5:02
+23409,Yes,No data,Male,09-11-52 0:00,Yes,No,No,No,No,Yes,No,No,No,Yes,Never smoked,No data,NSTEMI,30289,14-01-14 12:02
+26738,Yes,No data,Male,24-06-56 0:00,No,No,No,No,No,No,No,No,No,No,No data,No data,NSTEMI,30290,11-01-14 9:16
+26739,Yes,No data,Female,05-02-29 0:00,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No data,No data,NSTEMI,30291,17-01-14 9:40
+26742,Yes,No data,Male,25-10-76 0:00,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Smoker,No data,NSTEMI,30293,25-03-14 15:01
+26741,Yes,No data,Female,12-06-61 0:00,No,No,No,No,No,Yes,No,No,No,Yes,No data,No data,NSTEMI,30294,14-02-14 12:03
+26745,No,24-11-14 0:00,Male,09-12-47 0:00,Yes,No,No,No data,No data,No data,No data,No data,No data,No data,No data,No data,STEMI,30300,08-02-14 10:22
+9676,Yes,No data,Male,07-04-71 0:00,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Smoker,No data,NSTEMI,30304,18-03-14 19:18
+26753,Yes,No data,Male,09-04-53 0:00,No,No,No,No,No,Yes,No,Yes,Yes,No data,No data,129,NSTEMI,48616,04-04-15 0:07
+26754,Yes,No data,Female,23-05-58 0:00,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No data,No data,NSTEMI,31448,07-03-14 10:01
+26754,Yes,No data,Female,23-05-58 0:00,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No data,No data,NSTEMI,31448,07-03-14 10:01
+11488,No,04-09-15 0:00,Male,22-03-32 0:00,No,No,No,No,No data,No,Yes,No,No,No,A doh nyz st abbahagyta,No data,NSTEMI,30307,25-02-14 9:40
+26755,Yes,No data,Female,12-08-43 0:00,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No data,No data,NSTEMI,30308,26-02-14 9:59
+26756,Yes,No data,Female,03-08-55 0:00,Yes,No,No,No,No,Yes,No,No,No,Yes,No data,No data,STEMI,30309,19-03-14 12:21
+26757,No,07-12-14 0:00,Female,17-01-47 0:00,Yes,No,No,Yes,No,No data,No data,No data,No data,No data,No data,No data,STEMI,30310,17-03-14 12:30
+26758,Yes,No data,Female,17-04-40 0:00,Yes,Yes,No,No,No,Yes,No,No,No,No,Never smoked,No data,STEMI,30311,19-01-14 14:38
+26759,Yes,No data,Female,23-07-50 0:00,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,30312,19-01-14 11:55
+26760,Yes,No data,Male,03-10-38 0:00,No,No data,No,No,Yes,Yes,No,Yes,No,No data,No data,No data,NSTEMI,30313,28-01-14 9:15
+26761,Yes,No data,Male,10-10-50 0:00,No,No,No,Yes,Yes,Yes,No,Yes,No data,Yes,No data,No data,NSTEMI,30314,08-01-14 19:46
+26762,Yes,No data,Male,05-10-53 0:00,Yes,No,No,No data,No,Yes,No,Yes,No data,Yes,No data,No data,STEMI,30315,20-01-14 9:52
+26763,Yes,No data,Female,21-11-48 0:00,Yes,No,No,No data,No,Yes,No data,No,No,No data,Never smoked,No data,NSTEMI,30316,03-01-14 9:41
+26764,No,03-02-14 0:00,Male,19-06-51 0:00,No,No,No,No,No,Yes,No,No,No,Yes,Never smoked,No data,STEMI,30317,09-01-14 11:07
+14418,No,29-03-14 0:00,Male,22-04-55 0:00,No,No,No data,Yes,No data,Yes,No,No,No,Yes,Smoker,No data,NSTEMI,15141,23-03-14 23:43
+14418,No,29-03-14 0:00,Male,22-04-55 0:00,No,No,No,Yes,No data,Yes,No,No,No,Yes,Smoker,No data,NSTEMI,15141,23-03-14 23:43
+11980,Yes,No data,Male,14-02-51 0:00,No,No,No,Yes,No data,Yes,No,No,Yes,Yes,No data,No data,NSTEMI,30320,13-03-14 10:31
+26766,No,19-04-16 0:00,Male,04-10-54 0:00,Yes,No,No,No,No,No,No,No,No,No data,Smoker,No data,NSTEMI,30321,20-03-14 9:46
+26767,Yes,No data,Female,07-04-52 0:00,Yes,No,No,Yes,No,Yes,No,Yes,No,No data,No data,No data,STEMI,30322,16-03-14 7:46
+26768,Yes,No data,Male,23-10-68 0:00,No,No,No,No,No,Yes,No,Yes,No,Yes,Never smoked,No data,NSTEMI,30323,19-03-14 12:11
+26769,Yes,No data,Male,19-10-49 0:00,Yes,No,No,Yes,No,Yes,No,No data,No,No,Never smoked,No data,NSTEMI,30324,18-03-14 8:00
+26771,Yes,No data,Female,09-11-55 0:00,Yes,No,No data,Yes,No,Yes,No,Yes,No,No,A doh nyz st abbahagyta,No data,NSTEMI,30325,19-02-14 14:47
+26770,Yes,No data,Male,02-04-40 0:00,No,No,No,No,No,Yes,No,No,No,Yes,A doh nyz st abbahagyta,No data,NSTEMI,30326,14-03-14 10:32
+26772,Yes,No data,Male,23-02-42 0:00,Yes,No,No,Yes,No,Yes,No,No,No,No,No data,No data,NSTEMI,30327,23-02-14 8:09
+26773,Yes,No data,Male,12-08-73 0:00,Yes,No,No,No,No,Yes,No,No,No,No data,Smoker,No data,NSTEMI,30328,27-02-14 10:44
+26775,Yes,No data,Female,23-04-36 0:00,Yes,No,No,No,No,Yes,No,No,No,Yes,No data,No data,STEMI,30329,08-02-14 13:30
+26774,Yes,No data,Male,09-04-56 0:00,No,No,No,No,No,No,No,No,Yes,No,Smoker,No data,STEMI,30330,14-03-14 20:07
+26776,Yes,No data,Female,30-12-43 0:00,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No data,No data,NSTEMI,30331,27-01-14 8:52
+26717,Yes,No data,Male,26-10-56 0:00,Yes,No,No,No,No,Yes,No,No,No,No,A doh nyz st abbahagyta,No data,NSTEMI,30332,21-03-14 16:51
+26778,Yes,No data,Male,26-06-49 0:00,Yes,No,No,No,No,Yes,No,Yes,No,No data,No data,No data,NSTEMI,30333,16-01-14 12:59
+26779,Yes,No data,Female,15-05-23 0:00,No,No,No,No,No,Yes,No,No,No,Yes,No data,No data,NSTEMI,30334,16-03-14 10:15
+26721,Yes,No data,Male,17-05-50 0:00,Yes,No,No,No,No,Yes,No,No,No,No,Never smoked,No data,STEMI,30335,28-03-14 16:10
+26780,No,22-03-14 0:00,Male,18-09-34 0:00,Yes,No data,No,No,No,Yes,Yes,No,No,No,Never smoked,No data,STEMI,30336,18-03-14 7:06

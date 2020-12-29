@@ -1,0 +1,103 @@
+writers_df <- ..........("Died.At", "Writer.At"," First.Name"," Second.Name"," Sex"," Date.Of.Death")
+
+
+
+
+
+
+
+d <- data.frame(c1 = a, c2 = b)
+
+
+
+c3=exp
+
+
+
+c3(d) <- c(4,5)
+
+salaries$experience=exp
+
+
+c3(d) <- c("firstcol","secondcol")
+
+
+
+
+data$death <- POSIXct(data$death,format='%m/%d/%Y %H:%M')
+                                      
+
+diffs <- hospital$Date of death - Date of hospitalization$hospital
+
+
+
+hospital = read.csv("hospital.csv")
+
+
+
+
+
+summary(hospital[,3])
+hospitalization<-(hospital[,20])
+death<-(death[3,])
+
+> data <- data.frame(A = death, B = hospitalization)
+
+
+x<-strptime(data$death,"%d/%m/%Y %H:%M")
+y<-strptime(data$hospitalization,"%d/%m/%Y %H:%M")
+
+
+x1<-as.POSIXct(x)
+y1<-as.POSIXct(y, tz="GMT")
+
+
+data$hospitalization <- as.Date(data$hospitalization, "%d/%m/%Y %H:%M")
+data$death <- as.Date(data$death,"%d/%m/%Y %H:%M")
+
+
+
+
+
+ data$C <- (data$death - data$hospitalization)
+
+Diff <- function(x, start) as.numeric(x - as.Date(cut(start, "year")))
+transform(data, NumDays = Diff(Date, Date), TotalDays = Diff(Date, Date[1]))
+
+
+
+
+
+
+
+
+
+                                      
+
+sub<-function(data$death,data$hospitalization)
+    return(data$death-data$hospitalization)
+
+data
+
+diffs <- hospital$death - hospital$hospitalization
+
+
+diffs.hours <- floor(as.numeric(diffs))
+
+------------------
+
+hospital = read.csv("C:\\Users\\KM\\Desktop\\My thesis\\hospital.csv")
+
+hospitalization<-(hospital[,20])
+death<-(hospital[,3])
+
+x<- death[1:20]
+y<- hospitalization[1:20]
+
+x1<- strptime(death, "%d-%m-%Y %H:%M")
+y1<- strptime(death, "%d-%m-%Y %H:%M")
+
+x2<- as.POSIXct(x1)
+y2<- as.POSIXct(y1)
+
+diff <- x2- y2
