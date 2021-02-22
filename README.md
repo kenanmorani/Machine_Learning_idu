@@ -1,6 +1,5 @@
-# Machine_Learning_idu
-
-# Machine Learning course taken at Izmir Democracy University, Delivered by Assoc. Prof. Devrim Unay
+# Machine Learning course taken at Izmir Democracy University, ELectrical and Electronics Program              
+Delivered by Assoc. Prof. Devrim Unay
 
 Assignments and Final Project
 - The assignments follow the course 'Machine Learning Foundations:Case Study' on coursera.
