@@ -1,8 +1,10 @@
-# Machine Learning course taken at Izmir Democracy University          
+# Machine Learning, Izmir Democracy University          
 
-Assignments and Final Project
+* Assignments and Final Project:
+* Assignments:
 - The assignments follow the course 'Machine Learning Foundations:Case Study' on coursera.
-- The final project discusses the effects of learning rate changing on image classification modelling. It uses the CIFAR100 dataset for the work.
+* Final Project:
+- The final project discusses the effects of chanigne the learning rate on image classification modelling performance. It uses the CIFAR100 dataset for validation.
   Explanatory video lives at: https://youtu.be/PnNBh3Dm4o8 
   
   
