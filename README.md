@@ -11,12 +11,12 @@ This resporatory is a final Project: The project discusses the effects of changi
  The work is in folder _"Hospital-Data-Project"_ <br/>
  The paper desciring the work can be referenced as: <br/>
  
- @INPROCEEDINGS{8440931,
-  author={Morani, Kinan and Eigner, György and Ferenci, Tamás and Kovács, Levente and Naci Engin, Seref},
-  booktitle={2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)}, 
-  title={Prediction of the Survival of Patients with Cardiac Failure by Using Soft Computing Techniques}, 
-  year={2018},
-  volume={},
-  number={},
-  pages={000201-000206},
+ @INPROCEEDINGS{8440931,<br/>
+  author={Morani, Kinan and Eigner, György and Ferenci, Tamás and Kovács, Levente and Naci Engin, Seref}, <br/>
+  booktitle={2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)}, <br/>
+  title={Prediction of the Survival of Patients with Cardiac Failure by Using Soft Computing Techniques}, <br/>
+  year={2018}, <br/>
+  volume={}, <br/>
+  number={}, <br/>
+  pages={000201-000206}, <br/>
   doi={10.1109/SACI.2018.8440931}}
