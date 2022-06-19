@@ -1,4 +1,4 @@
-### Machine learning projects on structed and non structered data
+### Machine learning projects on structed and non-structered data
 This resporatory inclides two different projects. A case study of the effects of changing the learning rate on model perfomance for image classificaiton tasks and a study using hospital records of cardiac failure patients dataset for heart failure predictions. <br/>
 
 ## 1. Case Study of learning rate effects vs model performance
