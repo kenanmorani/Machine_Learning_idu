@@ -1,5 +1,5 @@
 ### Machine learning projects on structed and non-structered data
-This resporatory inclides two different projects. A case study of the effects of changing the learning rate on model perfomance for image classificaiton tasks and a study using hospital records of cardiac failure patients dataset for heart failure predictions. <br/>
+This respiratory includes two different projects. A case study of the effects of changing the learning rate on model perfomance for image classification tasks and a study and a study using hospital records of cardiac failure patients dataset for heart failure predictions. <br/>
 
 ## 1. Case Study of learning rate effects vs model performance
 This resporatory is a final Project: The project discusses the effects of changing the learning rate on image classification modelling performance. Two algorithms were compared through two different codes, one with fixed learning rate and one with changing learning rate. The comparison was made in terms of accuracy performacne and loss performacne for a multiclass image classification task. The popular CIFAR100 dataset was used for validation of the results. 
