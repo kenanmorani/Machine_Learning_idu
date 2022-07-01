@@ -7,6 +7,9 @@ This resporatory is a final Project: The project discusses the effects of changi
  * Explanatory video can be found at: https://youtu.be/PnNBh3Dm4o8 <br/>
   
  ## 2. Cardiac Failure prediction
+ 
+ [![DOI:10.1109/SACI.2018.8440931](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1109/SACI.2018.8440931)
+ 
  The dataset used was obtained from a hospital in Hungary. The platform used for the work is Rstudio.
  * The work is in folder _"Hospital-Data-Project"_ <br/>
  * The paper desciring the work can be referenced as: <br/>
