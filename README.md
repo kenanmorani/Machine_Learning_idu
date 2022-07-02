@@ -12,7 +12,7 @@ This resporatory is a final Project: The project discusses the effects of changi
  
  The dataset used was obtained from a hospital in Hungary. The platform used for the work is Rstudio.
  * The work is in folder _"Hospital-Data-Project"_ <br/>
- * The paper desciring the work can be referenced as: <br/>
+ * If you use this work, consider citing the paper as: <br/>
  
  @INPROCEEDINGS{8440931,<br/>
   author={Morani, Kinan and Eigner, György and Ferenci, Tamás and Kovács, Levente and Naci Engin, Seref}, <br/>
