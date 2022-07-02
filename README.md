@@ -5,16 +5,14 @@ This respiratory includes two different projects. A case study of the effects of
 This resporatory is a final Project: The project discusses the effects of changing the learning rate on image classification modelling performance. Two algorithms were compared through two different codes, one with fixed learning rate and one with changing learning rate. The comparison was made in terms of accuracy performacne and loss performacne for a multiclass image classification task. The popular CIFAR100 dataset was used for validation of the results. 
  * The codes can be found in _"CIFAR-100"_ Folder <br/>
  * Explanatory video can be found at: https://youtu.be/PnNBh3Dm4o8 <br/>
- <center>
- <iframe width="560" 
-         height="315" 
-         src="https://youtu.be/PnNBh3Dm4o8" 
-         title="YouTube video player" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
-</center>
+ * 
+ifdef::env-github[]
+image:https://img.youtube.com/vi/rAteGra5-xM/maxresdefault.jpg[link=https://https://youtu.be/PnNBh3Dm4o8]
+endif::[]
+
+ifndef::env-github[]
+video::rAteGra5-xM[youtube]
+endif::[]
   
  ## 2. Cardiac Failure prediction
  
