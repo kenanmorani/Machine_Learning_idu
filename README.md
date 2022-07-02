@@ -7,13 +7,13 @@ This resporatory is a final Project: The project discusses the effects of changi
  * Explanatory video can be found at: https://youtu.be/PnNBh3Dm4o8 <br/>
  * 
 ifdef::env-github[]
-image:https://img.youtube.com/vi/rAteGra5-xM/maxresdefault.jpg[link=https://https://youtu.be/PnNBh3Dm4o8]
+image:https://img.youtube.com/vi/rAteGra5-xM/maxresdefault.jpg[link=https://youtu.be/rAteGra5-xM]
 endif::[]
 
 ifndef::env-github[]
 video::rAteGra5-xM[youtube]
 endif::[]
-  
+
  ## 2. Cardiac Failure prediction
  
  [![DOI:10.1109/SACI.2018.8440931](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1109/SACI.2018.8440931)
