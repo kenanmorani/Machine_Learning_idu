@@ -1,8 +1,8 @@
 ### Machine learning projects on structed and unstructered data
-This respiratory includes two different projects. A case study of the effects of changing the learning rate on model perfomance for image classification tasks and a study and a study using hospital records of cardiac failure patients dataset for heart failure predictions. <br/>
+This repository includes two different projects. A case study of the effects of changing the learning rate on model perfomance for image classification tasks and a study and a study using hospital records of cardiac failure patients dataset for heart failure predictions. <br/>
 
 ## 1. Case Study of learning rate effects vs model performance
-This resporatory is a final Project: The project discusses the effects of changing the learning rate on image classification modelling performance. Two algorithms were compared through two different codes, one with fixed learning rate and one with changing learning rate. The comparison was made in terms of accuracy performacne and loss performacne for a multiclass image classification task. The popular CIFAR100 dataset was used for validation of the results. 
+This repository is a final Project: The project discusses the effects of changing the learning rate on image classification modelling performance. Two algorithms were compared through two different codes, one with fixed learning rate and one with changing learning rate. The comparison was made in terms of accuracy performacne and loss performacne for a multiclass image classification task. The popular CIFAR100 dataset was used for validation of the results. 
  * The codes can be found in _"CIFAR-100"_ Folder <br/>
  * Explanatory video can be found [here](https://youtu.be/PnNBh3Dm4o8). <br/>
 
