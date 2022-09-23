@@ -7,10 +7,10 @@ This repository is a final Project: The project discusses the effects of changin
  
  [![DOI:10.1109/SACI.2018.8440931](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1109/SACI.2018.8440931)
  
- The dataset used was obtained from a hospital in Hungary. The platform used for the work is Rstudio.
+ * The dataset used was obtained from a hospital in Hungary. The platform used for the work is Rstudio.
  * The work is in folder _"Hospital-Data-Project"_ <br/>
- * If you use this work, consider citing the paper as: <br/>
- 
+
+# If you use this work, consider citing the paper as: <br/>
  @INPROCEEDINGS{8440931,<br/>
   author={Morani, Kinan and Eigner, György and Ferenci, Tamás and Kovács, Levente and Naci Engin, Seref}, <br/>
   booktitle={2018 IEEE 12th International Symposium on Applied Computational Intelligence and Informatics (SACI)}, <br/>
