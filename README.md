@@ -3,7 +3,7 @@ This repository is a final Project: The project discusses the effects of changin
  * The codes can be found in _"CIFAR-100"_ Folder <br/>
  * Explanatory video can be found [here](https://youtu.be/PnNBh3Dm4o8). <br/>
 
- ## 2. Cardiac Failure prediction
+ ## 2. Prediction of Cardiac Failure
  
  [![DOI:10.1109/SACI.2018.8440931](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1109/SACI.2018.8440931)
  
